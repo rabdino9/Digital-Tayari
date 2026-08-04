@@ -3,13 +3,13 @@
   "id": "guess_papers",
   "title": "Guess Papers (High Chance)",
   "icon": "🎯",
-  "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/MCQs/refs/heads/main/guess_papers.json"
+  "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/guess_papers.json"
 },
   {
     "id": "math",
     "title": "Mathematics",
     "icon": "🧮",
-    "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/MCQs/refs/heads/main/math.json"
+    "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/math.json"
   },
   {
     "id": "physics",
