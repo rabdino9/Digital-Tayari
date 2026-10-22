@@ -1,9 +1,9 @@
 [
   {
-  "id": "guess_papers",
-  "title": "Guess Papers (High Chance)",
+  "id": "Irrigation-Department-Sindh",
+  "title": "Irrigation Department Sindh",
   "icon": "🎯",
-  "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/guess_papers.json"
+  "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/guess-papers/Irrigation-Department-Sindh.json"
 },
   {
     "id": "math",
