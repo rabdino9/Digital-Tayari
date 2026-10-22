@@ -1,1 +1,3328 @@
+{
+  "meta": {
+    "title": "Data Processing Assistant (BPS-12) Sindh Guess Paper",
+    "description": "Practice questions for Sindh Data Processing Assistant (BPS-12) screening tests covering computer and data processing, English, mathematics, Pakistan Studies, Sindh General Knowledge, Islamiat/Ethics, and basic science.",
+    "keywords": "Data Processing Assistant, BPS-12, Sindh, STS, NTS, computer, data entry, MS Office, databases, English, mathematics, Pakistan Studies, Sindh GK, Islamiat, ethics"
+  },
+  "subcategories": [
+    {
+      "id": "easy",
+      "title": "Easy Questions",
+      "questions": [
+        {
+          "q": "Data in a computer is stored internally as:",
+          "options": [
+            "Letters only",
+            "0 and 1",
+            "Pictures only",
+            "Decimal numbers only"
+          ],
+          "a": 1,
+          "ex": "Digital computers use binary digits, 0 and 1."
+        },
+        {
+          "q": "Which device is used to type text?",
+          "options": [
+            "Monitor",
+            "Keyboard",
+            "Speaker",
+            "Projector"
+          ],
+          "a": 1,
+          "ex": "A keyboard is an input device used for typing."
+        },
+        {
+          "q": "Which device displays output?",
+          "options": [
+            "Mouse",
+            "Scanner",
+            "Monitor",
+            "Microphone"
+          ],
+          "a": 2,
+          "ex": "A monitor displays visual output."
+        },
+        {
+          "q": "Which is an input device?",
+          "options": [
+            "Printer",
+            "Keyboard",
+            "Speaker",
+            "Plotter"
+          ],
+          "a": 1,
+          "ex": "A keyboard sends input to the computer."
+        },
+        {
+          "q": "CPU stands for:",
+          "options": [
+            "Central Processing Unit",
+            "Computer Personal Utility",
+            "Central Print Unit",
+            "Control Program User"
+          ],
+          "a": 0,
+          "ex": "CPU means Central Processing Unit."
+        },
+        {
+          "q": "RAM is best described as:",
+          "options": [
+            "Permanent storage",
+            "Temporary working memory",
+            "An output device",
+            "A printer setting"
+          ],
+          "a": 1,
+          "ex": "RAM temporarily holds data and programs in use."
+        },
+        {
+          "q": "ROM normally contains:",
+          "options": [
+            "Temporary files",
+            "Firmware or permanent instructions",
+            "Only photographs",
+            "User passwords only"
+          ],
+          "a": 1,
+          "ex": "ROM stores non-volatile instructions such as firmware."
+        },
+        {
+          "q": "Which is an operating system?",
+          "options": [
+            "Windows",
+            "Google",
+            "Yahoo",
+            "Intel"
+          ],
+          "a": 0,
+          "ex": "Windows is an operating system."
+        },
+        {
+          "q": "The shortcut Ctrl+C is used to:",
+          "options": [
+            "Cut",
+            "Copy",
+            "Close",
+            "Calculate"
+          ],
+          "a": 1,
+          "ex": "Ctrl+C copies selected content."
+        },
+        {
+          "q": "The shortcut Ctrl+V is used to:",
+          "options": [
+            "Paste",
+            "Print",
+            "Preview",
+            "Paste special only"
+          ],
+          "a": 0,
+          "ex": "Ctrl+V pastes copied or cut content."
+        },
+        {
+          "q": "The shortcut Ctrl+S is used to:",
+          "options": [
+            "Save",
+            "Search",
+            "Select all",
+            "Share"
+          ],
+          "a": 0,
+          "ex": "Ctrl+S saves the current file."
+        },
+        {
+          "q": "The shortcut Ctrl+P generally opens:",
+          "options": [
+            "Properties",
+            "Print dialog",
+            "Paragraph settings",
+            "Power options"
+          ],
+          "a": 1,
+          "ex": "Ctrl+P opens printing options."
+        },
+        {
+          "q": "In MS Word, F7 checks:",
+          "options": [
+            "Spelling and grammar",
+            "Page size",
+            "Internet connection",
+            "File encryption"
+          ],
+          "a": 0,
+          "ex": "F7 runs spelling and grammar checking."
+        },
+        {
+          "q": "A Microsoft Word file commonly uses the extension:",
+          "options": [
+            ".docx",
+            ".xlsx",
+            ".pptx",
+            ".jpg"
+          ],
+          "a": 0,
+          "ex": "Modern Word documents use .docx."
+        },
+        {
+          "q": "A Microsoft Excel workbook commonly uses:",
+          "options": [
+            ".txt",
+            ".xlsx",
+            ".mp3",
+            ".html"
+          ],
+          "a": 1,
+          "ex": "Modern Excel workbooks use .xlsx."
+        },
+        {
+          "q": "A Microsoft PowerPoint file commonly uses:",
+          "options": [
+            ".pptx",
+            ".docx",
+            ".xlsx",
+            ".exe"
+          ],
+          "a": 0,
+          "ex": "Modern PowerPoint presentations use .pptx."
+        },
+        {
+          "q": "In Excel, the intersection of a row and column is a:",
+          "options": [
+            "Table",
+            "Cell",
+            "Slide",
+            "Record"
+          ],
+          "a": 1,
+          "ex": "A cell is the intersection of a row and a column."
+        },
+        {
+          "q": "An Excel formula normally begins with:",
+          "options": [
+            "#",
+            "=",
+            "@",
+            "&"
+          ],
+          "a": 1,
+          "ex": "Excel formulas begin with an equals sign."
+        },
+        {
+          "q": "Which Excel function adds values?",
+          "options": [
+            "SUM",
+            "TEXT",
+            "LEFT",
+            "ROUNDUP only"
+          ],
+          "a": 0,
+          "ex": "SUM adds selected numbers."
+        },
+        {
+          "q": "A database is primarily a collection of:",
+          "options": [
+            "Related data",
+            "Computer cables",
+            "Screens",
+            "Fonts"
+          ],
+          "a": 0,
+          "ex": "A database organizes related data."
+        },
+        {
+          "q": "A row in a database table is commonly called a:",
+          "options": [
+            "Record",
+            "Field",
+            "Formula",
+            "Query language"
+          ],
+          "a": 0,
+          "ex": "A row represents a record."
+        },
+        {
+          "q": "A column in a database table is commonly called a:",
+          "options": [
+            "Record",
+            "Field",
+            "Folder",
+            "Report"
+          ],
+          "a": 1,
+          "ex": "A column represents a field."
+        },
+        {
+          "q": "A primary key should uniquely identify each:",
+          "options": [
+            "Table color",
+            "Record",
+            "Printer",
+            "Password hint"
+          ],
+          "a": 1,
+          "ex": "A primary key identifies a record uniquely."
+        },
+        {
+          "q": "Which is a web browser?",
+          "options": [
+            "Chrome",
+            "Linux",
+            "Excel",
+            "Bluetooth"
+          ],
+          "a": 0,
+          "ex": "Chrome is a web browser."
+        },
+        {
+          "q": "Which is a search engine?",
+          "options": [
+            "Google",
+            "Windows",
+            "USB",
+            "Firefox"
+          ],
+          "a": 0,
+          "ex": "Google is a search engine."
+        },
+        {
+          "q": "URL stands for:",
+          "options": [
+            "Uniform Resource Locator",
+            "Universal Record Link",
+            "User Routing List",
+            "Uniform Read Language"
+          ],
+          "a": 0,
+          "ex": "URL means Uniform Resource Locator."
+        },
+        {
+          "q": "An email address must normally contain:",
+          "options": [
+            "#",
+            "@",
+            "%",
+            "!"
+          ],
+          "a": 1,
+          "ex": "The @ symbol separates the user and domain parts."
+        },
+        {
+          "q": "A computer virus is:",
+          "options": [
+            "A hardware cable",
+            "Malicious software",
+            "A spreadsheet formula",
+            "A monitor type"
+          ],
+          "a": 1,
+          "ex": "A virus is malicious software that can replicate or damage systems."
+        },
+        {
+          "q": "A strong password should generally include:",
+          "options": [
+            "Only your name",
+            "A mix of character types",
+            "Only 123456",
+            "Your birth year only"
+          ],
+          "a": 1,
+          "ex": "Strong passwords combine varied characters and avoid obvious personal data."
+        },
+        {
+          "q": "Which device produces a paper copy?",
+          "options": [
+            "Printer",
+            "Router",
+            "Scanner",
+            "RAM"
+          ],
+          "a": 0,
+          "ex": "A printer produces hard-copy output."
+        },
+        {
+          "q": "A scanner is used mainly to:",
+          "options": [
+            "Digitize documents or images",
+            "Play sound",
+            "Store electricity",
+            "Cool the CPU"
+          ],
+          "a": 0,
+          "ex": "A scanner converts physical material into digital form."
+        },
+        {
+          "q": "A folder is used to:",
+          "options": [
+            "Organize files",
+            "Increase screen brightness",
+            "Print pages",
+            "Scan viruses automatically"
+          ],
+          "a": 0,
+          "ex": "Folders organize files and subfolders."
+        },
+        {
+          "q": "The Internet is best described as:",
+          "options": [
+            "A global network of networks",
+            "A single computer",
+            "A word processor",
+            "A local printer"
+          ],
+          "a": 0,
+          "ex": "The Internet connects many networks worldwide."
+        },
+        {
+          "q": "A backup is:",
+          "options": [
+            "A duplicate copy for recovery",
+            "A screen saver",
+            "A keyboard shortcut",
+            "A virus"
+          ],
+          "a": 0,
+          "ex": "Backups help restore data after loss or damage."
+        },
+        {
+          "q": "Data entry means:",
+          "options": [
+            "Entering information into a system",
+            "Deleting all records",
+            "Designing a logo",
+            "Repairing a monitor"
+          ],
+          "a": 0,
+          "ex": "Data entry is the process of recording information in a system."
+        },
+        {
+          "q": "Choose the correct article: He is ___ honest officer.",
+          "options": [
+            "a",
+            "an",
+            "the only",
+            "no article"
+          ],
+          "a": 1,
+          "ex": "Honest begins with a vowel sound, so an is used."
+        },
+        {
+          "q": "The plural of 'criterion' is:",
+          "options": [
+            "Criterions",
+            "Criteria",
+            "Criterionies",
+            "Criters"
+          ],
+          "a": 1,
+          "ex": "Criteria is the standard plural of criterion."
+        },
+        {
+          "q": "The opposite of 'ancient' is:",
+          "options": [
+            "Old",
+            "Modern",
+            "Historic",
+            "Past"
+          ],
+          "a": 1,
+          "ex": "Modern is the opposite of ancient."
+        },
+        {
+          "q": "Choose the correctly spelled word:",
+          "options": [
+            "Recieve",
+            "Receive",
+            "Receeve",
+            "Receve"
+          ],
+          "a": 1,
+          "ex": "Receive is the correct spelling."
+        },
+        {
+          "q": "The synonym of 'rapid' is:",
+          "options": [
+            "Slow",
+            "Fast",
+            "Weak",
+            "Late"
+          ],
+          "a": 1,
+          "ex": "Rapid means fast."
+        },
+        {
+          "q": "She ___ to office every day.",
+          "options": [
+            "go",
+            "goes",
+            "going",
+            "gone"
+          ],
+          "a": 1,
+          "ex": "With singular she, the present-tense verb is goes."
+        },
+        {
+          "q": "The past tense of 'write' is:",
+          "options": [
+            "Writed",
+            "Written",
+            "Wrote",
+            "Writing"
+          ],
+          "a": 2,
+          "ex": "Wrote is the simple past of write."
+        },
+        {
+          "q": "A person who operates a computer is a:",
+          "options": [
+            "User",
+            "Painter",
+            "Driver only",
+            "Printer"
+          ],
+          "a": 0,
+          "ex": "A user operates or interacts with a computer system."
+        },
+        {
+          "q": "'Data' is commonly treated in basic English as:",
+          "options": [
+            "Information or facts",
+            "A keyboard",
+            "A monitor",
+            "A password"
+          ],
+          "a": 0,
+          "ex": "Data means facts or information."
+        },
+        {
+          "q": "Choose the correct sentence:",
+          "options": [
+            "He do his work.",
+            "He does his work.",
+            "He doing work.",
+            "He done work."
+          ],
+          "a": 1,
+          "ex": "He takes the singular verb does."
+        },
+        {
+          "q": "The antonym of 'expand' is:",
+          "options": [
+            "Increase",
+            "Contract",
+            "Extend",
+            "Enlarge"
+          ],
+          "a": 1,
+          "ex": "Contract means become smaller, opposite of expand."
+        },
+        {
+          "q": "A synonym of 'assist' is:",
+          "options": [
+            "Help",
+            "Hinder",
+            "Ignore",
+            "Refuse"
+          ],
+          "a": 0,
+          "ex": "Assist means help."
+        },
+        {
+          "q": "The word 'quickly' is an:",
+          "options": [
+            "Noun",
+            "Adjective",
+            "Adverb",
+            "Pronoun"
+          ],
+          "a": 2,
+          "ex": "Quickly modifies a verb and is an adverb."
+        },
+        {
+          "q": "The passive form of 'Ali writes a letter' is:",
+          "options": [
+            "A letter is written by Ali.",
+            "A letter wrote Ali.",
+            "Ali is written a letter.",
+            "A letter has write Ali."
+          ],
+          "a": 0,
+          "ex": "The object becomes the subject in the passive form."
+        },
+        {
+          "q": "Choose the correct preposition: He is good ___ mathematics.",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "by"
+          ],
+          "a": 2,
+          "ex": "The standard expression is good at mathematics."
+        },
+        {
+          "q": "The plural of 'mouse' is:",
+          "options": [
+            "Mouses",
+            "Mice",
+            "Mousees",
+            "Meese"
+          ],
+          "a": 1,
+          "ex": "Mice is the irregular plural of mouse."
+        },
+        {
+          "q": "A sentence that asks a question is:",
+          "options": [
+            "Declarative",
+            "Interrogative",
+            "Imperative",
+            "Exclamatory"
+          ],
+          "a": 1,
+          "ex": "An interrogative sentence asks a question."
+        },
+        {
+          "q": "25 + 37 = ?",
+          "options": [
+            "52",
+            "62",
+            "72",
+            "58"
+          ],
+          "a": 1,
+          "ex": "25 plus 37 equals 62."
+        },
+        {
+          "q": "12 × 8 = ?",
+          "options": [
+            "86",
+            "96",
+            "108",
+            "112"
+          ],
+          "a": 1,
+          "ex": "12 multiplied by 8 equals 96."
+        },
+        {
+          "q": "144 ÷ 12 = ?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "14"
+          ],
+          "a": 2,
+          "ex": "144 divided by 12 equals 12."
+        },
+        {
+          "q": "What is 15% of 200?",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+          ],
+          "a": 2,
+          "ex": "0.15 multiplied by 200 equals 30."
+        },
+        {
+          "q": "The average of 10 and 20 is:",
+          "options": [
+            "10",
+            "15",
+            "20",
+            "30"
+          ],
+          "a": 1,
+          "ex": "(10+20)/2 equals 15."
+        },
+        {
+          "q": "If x + 7 = 19, x equals:",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "a": 2,
+          "ex": "Subtracting 7 from 19 gives x = 12."
+        },
+        {
+          "q": "A ratio of 2:3 has total parts:",
+          "options": [
+            "2",
+            "3",
+            "5",
+            "6"
+          ],
+          "a": 2,
+          "ex": "The total number of parts is 2+3 = 5."
+        },
+        {
+          "q": "The perimeter of a square with side 6 cm is:",
+          "options": [
+            "12 cm",
+            "18 cm",
+            "24 cm",
+            "36 cm"
+          ],
+          "a": 2,
+          "ex": "Perimeter is 4×6 = 24 cm."
+        },
+        {
+          "q": "One dozen equals:",
+          "options": [
+            "10",
+            "12",
+            "15",
+            "20"
+          ],
+          "a": 1,
+          "ex": "A dozen means twelve."
+        },
+        {
+          "q": "0.5 as a fraction is:",
+          "options": [
+            "1/5",
+            "1/4",
+            "1/2",
+            "5/1"
+          ],
+          "a": 2,
+          "ex": "0.5 equals one-half."
+        },
+        {
+          "q": "The square root of 81 is:",
+          "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "a": 2,
+          "ex": "9×9 = 81."
+        },
+        {
+          "q": "If a book costs Rs. 500 and discount is Rs. 50, sale price is:",
+          "options": [
+            "Rs. 450",
+            "Rs. 455",
+            "Rs. 550",
+            "Rs. 400"
+          ],
+          "a": 0,
+          "ex": "500 minus 50 equals Rs. 450."
+        },
+        {
+          "q": "The capital of Sindh is:",
+          "options": [
+            "Hyderabad",
+            "Karachi",
+            "Sukkur",
+            "Larkana"
+          ],
+          "a": 1,
+          "ex": "Karachi is the provincial capital of Sindh."
+        },
+        {
+          "q": "The official language of Sindh is:",
+          "options": [
+            "Sindhi",
+            "Punjabi",
+            "Balochi",
+            "Kashmiri"
+          ],
+          "a": 0,
+          "ex": "Sindhi is the provincial language of Sindh."
+        },
+        {
+          "q": "The Indus River is also called:",
+          "options": [
+            "Sindhu",
+            "Ravi",
+            "Jhelum",
+            "Chenab"
+          ],
+          "a": 0,
+          "ex": "Sindhu is the traditional name of the Indus."
+        },
+        {
+          "q": "Pakistan came into being on:",
+          "options": [
+            "14 August 1947",
+            "23 March 1940",
+            "11 September 1948",
+            "6 September 1965"
+          ],
+          "a": 0,
+          "ex": "Pakistan became independent on 14 August 1947."
+        },
+        {
+          "q": "The national language of Pakistan is:",
+          "options": [
+            "English",
+            "Urdu",
+            "Sindhi",
+            "Punjabi"
+          ],
+          "a": 1,
+          "ex": "Urdu is Pakistan's national language."
+        },
+        {
+          "q": "The national game of Pakistan is traditionally considered:",
+          "options": [
+            "Cricket",
+            "Hockey",
+            "Football",
+            "Polo"
+          ],
+          "a": 1,
+          "ex": "Hockey is traditionally listed as Pakistan's national game."
+        },
+        {
+          "q": "The largest city of Pakistan by population is:",
+          "options": [
+            "Lahore",
+            "Karachi",
+            "Peshawar",
+            "Quetta"
+          ],
+          "a": 1,
+          "ex": "Karachi is Pakistan's largest city by population."
+        },
+        {
+          "q": "The provincial capital of Punjab is:",
+          "options": [
+            "Multan",
+            "Lahore",
+            "Faisalabad",
+            "Rawalpindi"
+          ],
+          "a": 1,
+          "ex": "Lahore is the capital of Punjab."
+        },
+        {
+          "q": "The provincial capital of Khyber Pakhtunkhwa is:",
+          "options": [
+            "Peshawar",
+            "Abbottabad",
+            "Mardan",
+            "Bannu"
+          ],
+          "a": 0,
+          "ex": "Peshawar is the capital of Khyber Pakhtunkhwa."
+        },
+        {
+          "q": "The provincial capital of Balochistan is:",
+          "options": [
+            "Gwadar",
+            "Turbat",
+            "Quetta",
+            "Khuzdar"
+          ],
+          "a": 2,
+          "ex": "Quetta is the capital of Balochistan."
+        },
+        {
+          "q": "The first month of the Islamic calendar is:",
+          "options": [
+            "Ramadan",
+            "Muharram",
+            "Rajab",
+            "Shawwal"
+          ],
+          "a": 1,
+          "ex": "Muharram is the first Islamic month."
+        },
+        {
+          "q": "The number of obligatory prayers each day is:",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "a": 2,
+          "ex": "Muslims are required to offer five daily prayers."
+        },
+        {
+          "q": "Zakat is one of the:",
+          "options": [
+            "Five Pillars of Islam",
+            "Books of Hadith",
+            "Names of angels",
+            "Months"
+          ],
+          "a": 0,
+          "ex": "Zakat is one of Islam's Five Pillars."
+        },
+        {
+          "q": "The Quran was revealed in:",
+          "options": [
+            "Arabic",
+            "Persian",
+            "Urdu",
+            "Hebrew"
+          ],
+          "a": 0,
+          "ex": "The Quran was revealed in Arabic."
+        },
+        {
+          "q": "The first Caliph of Islam was:",
+          "options": [
+            "Hazrat Umar (RA)",
+            "Hazrat Abu Bakr (RA)",
+            "Hazrat Usman (RA)",
+            "Hazrat Ali (RA)"
+          ],
+          "a": 1,
+          "ex": "Hazrat Abu Bakr (RA) was the first Caliph."
+        },
+        {
+          "q": "The meaning of amanah is:",
+          "options": [
+            "Trust",
+            "War",
+            "Trade",
+            "Travel"
+          ],
+          "a": 0,
+          "ex": "Amanah means trust or responsibility."
+        },
+        {
+          "q": "The basic unit of life is the:",
+          "options": [
+            "Atom",
+            "Cell",
+            "Tissue",
+            "Organ"
+          ],
+          "a": 1,
+          "ex": "The cell is the basic unit of life."
+        },
+        {
+          "q": "Water boils at sea level at:",
+          "options": [
+            "0°C",
+            "50°C",
+            "100°C",
+            "150°C"
+          ],
+          "a": 2,
+          "ex": "Water boils at 100°C at standard atmospheric pressure."
+        },
+        {
+          "q": "The planet known as the Red Planet is:",
+          "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Mercury"
+          ],
+          "a": 1,
+          "ex": "Mars appears reddish because of iron oxides on its surface."
+        },
+        {
+          "q": "The gas humans need for respiration is:",
+          "options": [
+            "Nitrogen",
+            "Oxygen",
+            "Carbon dioxide",
+            "Hydrogen"
+          ],
+          "a": 1,
+          "ex": "Humans use oxygen for respiration."
+        },
+        {
+          "q": "Which key is commonly used to refresh a web page?",
+          "options": [
+            "F1",
+            "F5",
+            "F7",
+            "F12"
+          ],
+          "a": 1,
+          "ex": "F5 refreshes a web page in most browsers."
+        },
+        {
+          "q": "What does PDF stand for?",
+          "options": [
+            "Portable Document Format",
+            "Printed Data File",
+            "Public Document Folder",
+            "Personal Digital Form"
+          ],
+          "a": 0,
+          "ex": "PDF means Portable Document Format."
+        },
+        {
+          "q": "Which unit is larger?",
+          "options": [
+            "Kilobyte",
+            "Byte",
+            "Bit",
+            "Nibble"
+          ],
+          "a": 0,
+          "ex": "A kilobyte is larger than a byte, bit, or nibble."
+        },
+        {
+          "q": "A USB flash drive is used for:",
+          "options": [
+            "Portable data storage",
+            "Displaying video only",
+            "Typing text",
+            "Cooling a computer"
+          ],
+          "a": 0,
+          "ex": "A flash drive provides portable storage."
+        },
+        {
+          "q": "Which key deletes the character to the right of the cursor?",
+          "options": [
+            "Backspace",
+            "Delete",
+            "Shift",
+            "Tab"
+          ],
+          "a": 1,
+          "ex": "Delete removes the character to the right."
+        },
+        {
+          "q": "A file extension tells you about a file's:",
+          "options": [
+            "Type or format",
+            "Physical weight",
+            "Password",
+            "Screen size"
+          ],
+          "a": 0,
+          "ex": "The extension commonly indicates the file format."
+        },
+        {
+          "q": "The shortcut Ctrl+A usually means:",
+          "options": [
+            "Select all",
+            "Align right",
+            "Add row",
+            "Open account"
+          ],
+          "a": 0,
+          "ex": "Ctrl+A selects all content in the active area."
+        },
+        {
+          "q": "Which is an example of cloud storage?",
+          "options": [
+            "Online file storage",
+            "A paper folder",
+            "A keyboard",
+            "A local cable"
+          ],
+          "a": 0,
+          "ex": "Cloud storage keeps files on remote networked servers."
+        },
+        {
+          "q": "The smallest unit of digital information is a:",
+          "options": [
+            "Byte",
+            "Bit",
+            "Kilobyte",
+            "Word"
+          ],
+          "a": 1,
+          "ex": "A bit represents 0 or 1."
+        },
+        {
+          "q": "A modem connects a computer to:",
+          "options": [
+            "A communication network",
+            "A paper file",
+            "A desk lamp",
+            "A scanner glass"
+          ],
+          "a": 0,
+          "ex": "A modem enables communication over a network connection."
+        },
+        {
+          "q": "The opposite of 'accept' is:",
+          "options": [
+            "Receive",
+            "Reject",
+            "Admit",
+            "Approve"
+          ],
+          "a": 1,
+          "ex": "Reject is the opposite of accept."
+        },
+        {
+          "q": "The plural of 'child' is:",
+          "options": [
+            "Childs",
+            "Children",
+            "Childes",
+            "Childrens"
+          ],
+          "a": 1,
+          "ex": "Children is the irregular plural."
+        },
+        {
+          "q": "The sun rises in the:",
+          "options": [
+            "West",
+            "North",
+            "East",
+            "South"
+          ],
+          "a": 2,
+          "ex": "The sun appears to rise in the east."
+        },
+        {
+          "q": "A triangle has how many sides?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "a": 1,
+          "ex": "A triangle has three sides."
+        },
+        {
+          "q": "The freezing point of water is:",
+          "options": [
+            "0°C",
+            "10°C",
+            "50°C",
+            "100°C"
+          ],
+          "a": 0,
+          "ex": "Water freezes at 0°C at standard pressure."
+        },
+        {
+          "q": "The currency of Pakistan is:",
+          "options": [
+            "Rupee",
+            "Taka",
+            "Riyal",
+            "Dinar"
+          ],
+          "a": 0,
+          "ex": "Pakistan uses the Pakistani rupee."
+        }
+      ]
+    },
+    {
+      "id": "normal",
+      "title": "Normal Questions",
+      "questions": [
+        {
+          "q": "Which memory loses its contents when power is switched off?",
+          "options": [
+            "ROM",
+            "RAM",
+            "SSD",
+            "DVD"
+          ],
+          "a": 1,
+          "ex": "RAM is volatile memory."
+        },
+        {
+          "q": "The ALU performs:",
+          "options": [
+            "Arithmetic and logical operations",
+            "Only printing",
+            "File compression only",
+            "Internet browsing"
+          ],
+          "a": 0,
+          "ex": "The Arithmetic Logic Unit handles arithmetic and logic."
+        },
+        {
+          "q": "Which protocol is commonly used to browse web pages?",
+          "options": [
+            "HTTP/HTTPS",
+            "FTP only",
+            "SMTP only",
+            "POP3 only"
+          ],
+          "a": 0,
+          "ex": "HTTP and HTTPS transfer web resources."
+        },
+        {
+          "q": "Which protocol is mainly used to send email?",
+          "options": [
+            "SMTP",
+            "HTTP",
+            "FTP",
+            "DHCP"
+          ],
+          "a": 0,
+          "ex": "SMTP is used for sending email."
+        },
+        {
+          "q": "Which protocol automatically assigns IP addresses on a network?",
+          "options": [
+            "DHCP",
+            "HTML",
+            "SMTP",
+            "USB"
+          ],
+          "a": 0,
+          "ex": "DHCP leases network configuration including IP addresses."
+        },
+        {
+          "q": "An IP address identifies:",
+          "options": [
+            "A device or network interface on a network",
+            "A Word document",
+            "A printer cartridge",
+            "A file extension"
+          ],
+          "a": 0,
+          "ex": "IP addresses identify network interfaces or devices."
+        },
+        {
+          "q": "A LAN normally covers:",
+          "options": [
+            "A small local area",
+            "The entire world",
+            "Only satellites",
+            "A continent only"
+          ],
+          "a": 0,
+          "ex": "A LAN connects devices in a limited area."
+        },
+        {
+          "q": "A WAN covers:",
+          "options": [
+            "A wide geographical area",
+            "One keyboard",
+            "One room only",
+            "A single file"
+          ],
+          "a": 0,
+          "ex": "A WAN spans large geographic areas."
+        },
+        {
+          "q": "Which is volatile storage?",
+          "options": [
+            "RAM",
+            "ROM",
+            "Flash drive",
+            "Hard disk"
+          ],
+          "a": 0,
+          "ex": "RAM needs power to retain data."
+        },
+        {
+          "q": "In Excel, $A$1 is a:",
+          "options": [
+            "Mixed reference",
+            "Absolute reference",
+            "Text label",
+            "Named range only"
+          ],
+          "a": 1,
+          "ex": "Dollar signs lock both the column and row."
+        },
+        {
+          "q": "Which Excel function counts numeric cells?",
+          "options": [
+            "COUNT",
+            "SUMTEXT",
+            "NUMBERS",
+            "ADD"
+          ],
+          "a": 0,
+          "ex": "COUNT counts cells containing numbers."
+        },
+        {
+          "q": "Which Excel feature summarizes data by categories?",
+          "options": [
+            "PivotTable",
+            "WordArt",
+            "Spell Check",
+            "Mail Merge"
+          ],
+          "a": 0,
+          "ex": "PivotTables summarize and analyze data."
+        },
+        {
+          "q": "In a relational database, a foreign key usually:",
+          "options": [
+            "Links to a key in another table",
+            "Encrypts the database",
+            "Deletes duplicate rows",
+            "Formats text"
+          ],
+          "a": 0,
+          "ex": "A foreign key creates a relationship between tables."
+        },
+        {
+          "q": "SQL is mainly used to:",
+          "options": [
+            "Manage and query relational databases",
+            "Edit photographs",
+            "Create audio",
+            "Control a monitor"
+          ],
+          "a": 0,
+          "ex": "SQL queries and manages relational data."
+        },
+        {
+          "q": "Which normal form removes repeating groups?",
+          "options": [
+            "First Normal Form",
+            "Fourth Normal Form only",
+            "Zero Normal Form",
+            "Visual Form"
+          ],
+          "a": 0,
+          "ex": "1NF requires atomic values and no repeating groups."
+        },
+        {
+          "q": "Data validation is used to:",
+          "options": [
+            "Restrict or check entered values",
+            "Delete an operating system",
+            "Increase monitor size",
+            "Replace a CPU"
+          ],
+          "a": 0,
+          "ex": "Validation checks whether input meets defined rules."
+        },
+        {
+          "q": "A checksum is commonly used to:",
+          "options": [
+            "Detect data transmission errors",
+            "Create a slide",
+            "Open a folder",
+            "Change a font"
+          ],
+          "a": 0,
+          "ex": "Checksums help detect altered or corrupted data."
+        },
+        {
+          "q": "Phishing attempts usually try to:",
+          "options": [
+            "Trick users into revealing information",
+            "Improve backup speed",
+            "Clean a keyboard",
+            "Format a table"
+          ],
+          "a": 0,
+          "ex": "Phishing uses deceptive messages to steal information."
+        },
+        {
+          "q": "Two-factor authentication requires:",
+          "options": [
+            "Two different verification factors",
+            "Two usernames only",
+            "Two browsers",
+            "Two printers"
+          ],
+          "a": 0,
+          "ex": "2FA combines two independent proof factors."
+        },
+        {
+          "q": "A firewall primarily:",
+          "options": [
+            "Filters network traffic",
+            "Prints reports",
+            "Creates formulas",
+            "Scans paper"
+          ],
+          "a": 0,
+          "ex": "Firewalls control traffic using security rules."
+        },
+        {
+          "q": "Choose the correct word: The report was ___ by the officer.",
+          "options": [
+            "prepare",
+            "prepared",
+            "preparing",
+            "prepares"
+          ],
+          "a": 1,
+          "ex": "The passive construction requires the past participle prepared."
+        },
+        {
+          "q": "'Neither the clerk nor the assistants ___ absent.'",
+          "options": [
+            "was",
+            "were",
+            "is",
+            "be"
+          ],
+          "a": 1,
+          "ex": "With nor and a plural nearer subject, were is appropriate."
+        },
+        {
+          "q": "The closest meaning of 'accurate' is:",
+          "options": [
+            "Correct",
+            "Rapid",
+            "Large",
+            "Distant"
+          ],
+          "a": 0,
+          "ex": "Accurate means correct or free from error."
+        },
+        {
+          "q": "The opposite of 'scarce' is:",
+          "options": [
+            "Rare",
+            "Abundant",
+            "Limited",
+            "Small"
+          ],
+          "a": 1,
+          "ex": "Abundant means plentiful."
+        },
+        {
+          "q": "A person who compiles data is a:",
+          "options": [
+            "Compiler",
+            "Compilant",
+            "Compilment",
+            "Compilee"
+          ],
+          "a": 0,
+          "ex": "A compiler is one who compiles information."
+        },
+        {
+          "q": "Choose the correctly punctuated sentence:",
+          "options": [
+            "However the file is ready.",
+            "However, the file is ready.",
+            "However the file, is ready.",
+            "However; the file is ready?"
+          ],
+          "a": 1,
+          "ex": "A comma follows the introductory word however."
+        },
+        {
+          "q": "'Confidential' means:",
+          "options": [
+            "Intended to be kept secret",
+            "Publicly advertised",
+            "Unrelated",
+            "Incorrect"
+          ],
+          "a": 0,
+          "ex": "Confidential information is restricted from public access."
+        },
+        {
+          "q": "The passive voice of 'The team completed the task' is:",
+          "options": [
+            "The task was completed by the team.",
+            "The task completed the team.",
+            "The team was completed by task.",
+            "The task is completing team."
+          ],
+          "a": 0,
+          "ex": "The object becomes the passive subject."
+        },
+        {
+          "q": "If a file is 'corrupt', it is:",
+          "options": [
+            "Damaged or invalid",
+            "Encrypted safely",
+            "Newly created",
+            "Printed twice"
+          ],
+          "a": 0,
+          "ex": "A corrupt file is damaged or cannot be correctly read."
+        },
+        {
+          "q": "A formal letter should usually begin with:",
+          "options": [
+            "A clear salutation",
+            "An emoji",
+            "A random password",
+            "A formula"
+          ],
+          "a": 0,
+          "ex": "Formal correspondence uses a proper salutation."
+        },
+        {
+          "q": "3/4 expressed as a percentage is:",
+          "options": [
+            "25%",
+            "50%",
+            "75%",
+            "80%"
+          ],
+          "a": 2,
+          "ex": "Three-fourths equals 0.75 or 75%."
+        },
+        {
+          "q": "If 5 workers finish a job in 12 days at the same rate, 10 workers need:",
+          "options": [
+            "3 days",
+            "6 days",
+            "12 days",
+            "24 days"
+          ],
+          "a": 1,
+          "ex": "Doubling workers halves the time to 6 days."
+        },
+        {
+          "q": "The simple interest on Rs. 1,000 at 10% for 2 years is:",
+          "options": [
+            "Rs. 100",
+            "Rs. 150",
+            "Rs. 200",
+            "Rs. 220"
+          ],
+          "a": 2,
+          "ex": "SI = PRT/100 = 1000×10×2/100 = 200."
+        },
+        {
+          "q": "A number increased by 20% becomes 120. The original number was:",
+          "options": [
+            "80",
+            "90",
+            "100",
+            "110"
+          ],
+          "a": 2,
+          "ex": "120 is 120% of 100."
+        },
+        {
+          "q": "The LCM of 6 and 8 is:",
+          "options": [
+            "12",
+            "18",
+            "24",
+            "48"
+          ],
+          "a": 2,
+          "ex": "24 is the least common multiple."
+        },
+        {
+          "q": "The HCF of 24 and 36 is:",
+          "options": [
+            "6",
+            "8",
+            "12",
+            "18"
+          ],
+          "a": 2,
+          "ex": "12 is the greatest common factor."
+        },
+        {
+          "q": "A train travels 180 km in 3 hours. Its speed is:",
+          "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "90 km/h"
+          ],
+          "a": 1,
+          "ex": "Speed = distance/time = 180/3 = 60 km/h."
+        },
+        {
+          "q": "The area of a rectangle 8 cm by 5 cm is:",
+          "options": [
+            "13 cm²",
+            "26 cm²",
+            "40 cm²",
+            "80 cm²"
+          ],
+          "a": 2,
+          "ex": "Area = length×width = 40 cm²."
+        },
+        {
+          "q": "If 2x = 18, x is:",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "12"
+          ],
+          "a": 2,
+          "ex": "Divide both sides by 2 to get x = 9."
+        },
+        {
+          "q": "The next number in 2, 4, 8, 16 is:",
+          "options": [
+            "20",
+            "24",
+            "30",
+            "32"
+          ],
+          "a": 3,
+          "ex": "Each term doubles, so the next term is 32."
+        },
+        {
+          "q": "The 1973 Constitution declares Pakistan a:",
+          "options": [
+            "Federal republic",
+            "Unitary monarchy",
+            "Confederation only",
+            "Military state"
+          ],
+          "a": 0,
+          "ex": "Pakistan is a federal republic under the Constitution."
+        },
+        {
+          "q": "The first capital of Pakistan was:",
+          "options": [
+            "Karachi",
+            "Lahore",
+            "Islamabad",
+            "Rawalpindi"
+          ],
+          "a": 0,
+          "ex": "Karachi served as the first capital."
+        },
+        {
+          "q": "The Indus Waters Treaty was signed in:",
+          "options": [
+            "1947",
+            "1956",
+            "1960",
+            "1973"
+          ],
+          "a": 2,
+          "ex": "The treaty was signed in 1960."
+        },
+        {
+          "q": "The Pakistan Resolution was passed at Lahore in:",
+          "options": [
+            "1930",
+            "1940",
+            "1947",
+            "1956"
+          ],
+          "a": 1,
+          "ex": "The Lahore Resolution was passed on 23 March 1940."
+        },
+        {
+          "q": "The national flower of Pakistan is:",
+          "options": [
+            "Rose",
+            "Jasmine",
+            "Tulip",
+            "Sunflower"
+          ],
+          "a": 1,
+          "ex": "Jasmine is Pakistan's national flower."
+        },
+        {
+          "q": "The largest desert in Sindh is:",
+          "options": [
+            "Thar Desert",
+            "Cholistan",
+            "Kharan",
+            "Thal"
+          ],
+          "a": 0,
+          "ex": "The Thar Desert covers much of eastern Sindh."
+        },
+        {
+          "q": "Mohenjo-daro is located near:",
+          "options": [
+            "Larkana",
+            "Quetta",
+            "Peshawar",
+            "Murree"
+          ],
+          "a": 0,
+          "ex": "Mohenjo-daro is in Larkana District, Sindh."
+        },
+        {
+          "q": "The Shah Jahan Mosque is located in:",
+          "options": [
+            "Thatta",
+            "Sukkur",
+            "Nawabshah",
+            "Badin"
+          ],
+          "a": 0,
+          "ex": "The historic Shah Jahan Mosque is in Thatta."
+        },
+        {
+          "q": "The Sindh Assembly is located in:",
+          "options": [
+            "Karachi",
+            "Hyderabad",
+            "Sukkur",
+            "Mirpurkhas"
+          ],
+          "a": 0,
+          "ex": "The Sindh Assembly is in Karachi."
+        },
+        {
+          "q": "The largest lake in Sindh is commonly identified as:",
+          "options": [
+            "Manchar Lake",
+            "Keenjhar Lake",
+            "Haleji Lake",
+            "Saddar Lake"
+          ],
+          "a": 0,
+          "ex": "Manchar is the largest natural freshwater lake in Pakistan."
+        },
+        {
+          "q": "The Battle of Badr took place in:",
+          "options": [
+            "1 AH",
+            "2 AH",
+            "5 AH",
+            "8 AH"
+          ],
+          "a": 1,
+          "ex": "The Battle of Badr occurred in 2 AH."
+        },
+        {
+          "q": "The first revelation came in the cave of:",
+          "options": [
+            "Thawr",
+            "Hira",
+            "Uhud",
+            "Safa"
+          ],
+          "a": 1,
+          "ex": "The first revelation came in Cave Hira."
+        },
+        {
+          "q": "The treaty of Hudaybiyyah was made in:",
+          "options": [
+            "2 AH",
+            "5 AH",
+            "6 AH",
+            "9 AH"
+          ],
+          "a": 2,
+          "ex": "The Treaty of Hudaybiyyah was concluded in 6 AH."
+        },
+        {
+          "q": "The Hijrah was migration from Makkah to:",
+          "options": [
+            "Taif",
+            "Madinah",
+            "Jerusalem",
+            "Abyssinia"
+          ],
+          "a": 1,
+          "ex": "The Prophet's Hijrah was from Makkah to Madinah."
+        },
+        {
+          "q": "Qiyas in Islamic jurisprudence means:",
+          "options": [
+            "Analogical reasoning",
+            "Charity",
+            "Pilgrimage",
+            "Recitation"
+          ],
+          "a": 0,
+          "ex": "Qiyas applies established principles by analogy."
+        },
+        {
+          "q": "The chemical symbol for sodium is:",
+          "options": [
+            "So",
+            "Na",
+            "S",
+            "N"
+          ],
+          "a": 1,
+          "ex": "Sodium has the symbol Na."
+        },
+        {
+          "q": "A device that converts digital signals to analog signals is a:",
+          "options": [
+            "Modem",
+            "Scanner",
+            "Printer",
+            "Keyboard"
+          ],
+          "a": 0,
+          "ex": "A modem modulates and demodulates signals."
+        },
+        {
+          "q": "The force that attracts objects toward Earth is:",
+          "options": [
+            "Friction",
+            "Gravity",
+            "Magnetism only",
+            "Pressure"
+          ],
+          "a": 1,
+          "ex": "Gravity attracts masses toward Earth."
+        },
+        {
+          "q": "The pH of a neutral solution is:",
+          "options": [
+            "0",
+            "5",
+            "7",
+            "14"
+          ],
+          "a": 2,
+          "ex": "A neutral solution has pH 7 at standard conditions."
+        },
+        {
+          "q": "The human heart normally has:",
+          "options": [
+            "Two chambers",
+            "Three chambers",
+            "Four chambers",
+            "Five chambers"
+          ],
+          "a": 2,
+          "ex": "The human heart has four chambers."
+        },
+        {
+          "q": "Which device forwards packets between different networks?",
+          "options": [
+            "Router",
+            "Hub",
+            "Keyboard",
+            "Monitor"
+          ],
+          "a": 0,
+          "ex": "A router directs packets between networks."
+        },
+        {
+          "q": "A MAC address is associated with a:",
+          "options": [
+            "Network interface",
+            "Word paragraph",
+            "Database row only",
+            "Printer page"
+          ],
+          "a": 0,
+          "ex": "A MAC address identifies a network interface at link level."
+        },
+        {
+          "q": "What does DNS translate?",
+          "options": [
+            "Domain names into IP addresses",
+            "Files into folders",
+            "Passwords into usernames",
+            "Images into audio"
+          ],
+          "a": 0,
+          "ex": "DNS resolves domain names to IP addresses."
+        },
+        {
+          "q": "A VPN is commonly used to:",
+          "options": [
+            "Create an encrypted connection over a network",
+            "Increase printer ink",
+            "Edit a spreadsheet",
+            "Replace an operating system"
+          ],
+          "a": 0,
+          "ex": "A VPN can protect traffic through an encrypted tunnel."
+        },
+        {
+          "q": "Which backup includes only changes since the last full backup?",
+          "options": [
+            "Incremental backup",
+            "Full backup",
+            "Mirror screen",
+            "Manual copy only"
+          ],
+          "a": 0,
+          "ex": "Incremental backups capture changes since the last backup of any type."
+        },
+        {
+          "q": "A relational table should ideally have:",
+          "options": [
+            "A defined structure of rows and columns",
+            "Only images",
+            "No fields",
+            "Only formulas"
+          ],
+          "a": 0,
+          "ex": "Relational tables organize values in rows and columns."
+        },
+        {
+          "q": "A query is used to:",
+          "options": [
+            "Retrieve or manipulate selected data",
+            "Clean a monitor",
+            "Charge a battery",
+            "Change a keyboard"
+          ],
+          "a": 0,
+          "ex": "Queries request or modify data according to criteria."
+        },
+        {
+          "q": "A unique constraint prevents:",
+          "options": [
+            "Duplicate values in the constrained column or set",
+            "All data entry",
+            "Any sorting",
+            "All backups"
+          ],
+          "a": 0,
+          "ex": "A unique constraint enforces uniqueness."
+        },
+        {
+          "q": "A NULL database value means:",
+          "options": [
+            "Missing or unknown value",
+            "Zero in every context",
+            "False always",
+            "An empty table"
+          ],
+          "a": 0,
+          "ex": "NULL represents absent or unknown data, not necessarily zero."
+        },
+        {
+          "q": "Which chart best shows a trend over time?",
+          "options": [
+            "Line chart",
+            "Pie chart only",
+            "Icon",
+            "Paragraph"
+          ],
+          "a": 0,
+          "ex": "Line charts are effective for time trends."
+        },
+        {
+          "q": "Which chart shows parts of a whole?",
+          "options": [
+            "Pie chart",
+            "Line chart only",
+            "Scatter plot only",
+            "Text box"
+          ],
+          "a": 0,
+          "ex": "Pie charts display proportions of a whole."
+        },
+        {
+          "q": "A CSV file usually stores:",
+          "options": [
+            "Comma-separated tabular text",
+            "Encrypted video",
+            "Operating-system code",
+            "Only photographs"
+          ],
+          "a": 0,
+          "ex": "CSV means comma-separated values."
+        },
+        {
+          "q": "A delimiter is used to:",
+          "options": [
+            "Separate fields or values",
+            "Encrypt a password",
+            "Start a computer",
+            "Print a page"
+          ],
+          "a": 0,
+          "ex": "Delimiters separate data elements."
+        },
+        {
+          "q": "A data type for whole numbers is commonly:",
+          "options": [
+            "Integer",
+            "Boolean only",
+            "String only",
+            "Image"
+          ],
+          "a": 0,
+          "ex": "Integer represents whole numbers."
+        },
+        {
+          "q": "A string data type stores:",
+          "options": [
+            "Text characters",
+            "Only decimals",
+            "Only dates",
+            "Printer settings"
+          ],
+          "a": 0,
+          "ex": "Strings contain sequences of text characters."
+        },
+        {
+          "q": "A dashboard is primarily used to:",
+          "options": [
+            "Present key information and indicators visually",
+            "Store passwords in plain text",
+            "Replace a database",
+            "Format a hard disk"
+          ],
+          "a": 0,
+          "ex": "Dashboards present metrics and visual summaries."
+        },
+        {
+          "q": "The best way to avoid accidental overwriting is to:",
+          "options": [
+            "Use versioned files or backups",
+            "Disable all security",
+            "Delete the original",
+            "Share edit access publicly"
+          ],
+          "a": 0,
+          "ex": "Versions and backups preserve earlier copies."
+        },
+        {
+          "q": "A read-only file can generally be:",
+          "options": [
+            "Viewed but not edited without changing permissions",
+            "Edited by everyone",
+            "Deleted only by a printer",
+            "Used only online"
+          ],
+          "a": 0,
+          "ex": "Read-only permissions restrict modification."
+        },
+        {
+          "q": "The English word 'proceed' means:",
+          "options": [
+            "Continue",
+            "Stop",
+            "Reverse",
+            "Forget"
+          ],
+          "a": 0,
+          "ex": "Proceed means continue or move forward."
+        },
+        {
+          "q": "The antonym of 'transparent' in communication is:",
+          "options": [
+            "Obscure",
+            "Clear",
+            "Open",
+            "Plain"
+          ],
+          "a": 0,
+          "ex": "Obscure information is not clear or transparent."
+        },
+        {
+          "q": "Choose the correct form: The files ___ been archived.",
+          "options": [
+            "has",
+            "have",
+            "is",
+            "was"
+          ],
+          "a": 1,
+          "ex": "Plural files take have in the present perfect."
+        },
+        {
+          "q": "A person who receives a letter is the:",
+          "options": [
+            "Addressee",
+            "Author only",
+            "Editor",
+            "Sender"
+          ],
+          "a": 0,
+          "ex": "The addressee is the recipient."
+        },
+        {
+          "q": "The phrase 'in accordance with' means:",
+          "options": [
+            "According to",
+            "Against",
+            "Before writing",
+            "Without reference"
+          ],
+          "a": 0,
+          "ex": "It means in agreement with or according to."
+        },
+        {
+          "q": "The direct opposite of 'mandatory' is:",
+          "options": [
+            "Optional",
+            "Required",
+            "Compulsory",
+            "Necessary"
+          ],
+          "a": 0,
+          "ex": "Optional means not compulsory."
+        },
+        {
+          "q": "If a document is 'legible', it is:",
+          "options": [
+            "Easy to read",
+            "Encrypted",
+            "Damaged",
+            "Very long"
+          ],
+          "a": 0,
+          "ex": "Legible writing can be read clearly."
+        },
+        {
+          "q": "A notice should be written in language that is:",
+          "options": [
+            "Clear and concise",
+            "Hidden and vague",
+            "Decorative only",
+            "Unrelated"
+          ],
+          "a": 0,
+          "ex": "Official notices should be clear and concise."
+        },
+        {
+          "q": "20% of 450 equals:",
+          "options": [
+            "45",
+            "90",
+            "100",
+            "120"
+          ],
+          "a": 1,
+          "ex": "0.20×450 = 90."
+        },
+        {
+          "q": "The value of 7² is:",
+          "options": [
+            "14",
+            "21",
+            "49",
+            "77"
+          ],
+          "a": 2,
+          "ex": "7 squared is 49."
+        },
+        {
+          "q": "The next number in 5, 10, 20, 40 is:",
+          "options": [
+            "45",
+            "60",
+            "70",
+            "80"
+          ],
+          "a": 3,
+          "ex": "The sequence doubles each time."
+        },
+        {
+          "q": "A 10% profit on Rs. 800 gives a selling price of:",
+          "options": [
+            "Rs. 808",
+            "Rs. 880",
+            "Rs. 900",
+            "Rs. 1,000"
+          ],
+          "a": 1,
+          "ex": "Profit is 80, so price is 880."
+        },
+        {
+          "q": "The sum of the angles of a triangle is:",
+          "options": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+          ],
+          "a": 1,
+          "ex": "Triangle angles sum to 180 degrees."
+        },
+        {
+          "q": "A square has an area of 64 cm². Its side is:",
+          "options": [
+            "4 cm",
+            "6 cm",
+            "8 cm",
+            "16 cm"
+          ],
+          "a": 2,
+          "ex": "The square root of 64 is 8."
+        },
+        {
+          "q": "The capital of Pakistan is:",
+          "options": [
+            "Karachi",
+            "Islamabad",
+            "Lahore",
+            "Peshawar"
+          ],
+          "a": 1,
+          "ex": "Islamabad is Pakistan's capital."
+        },
+        {
+          "q": "The Kirthar Range is mainly associated with:",
+          "options": [
+            "Sindh and Balochistan",
+            "Punjab and KP",
+            "Gilgit only",
+            "Balochistan and Kashmir only"
+          ],
+          "a": 0,
+          "ex": "The Kirthar Range lies along Sindh and Balochistan."
+        },
+        {
+          "q": "The ancient port city of Banbhore is in:",
+          "options": [
+            "Sindh",
+            "Punjab",
+            "KP",
+            "Balochistan"
+          ],
+          "a": 0,
+          "ex": "Banbhore is an archaeological site in Sindh."
+        },
+        {
+          "q": "Ranikot Fort is located in:",
+          "options": [
+            "Sindh",
+            "Punjab",
+            "Kashmir",
+            "KP"
+          ],
+          "a": 0,
+          "ex": "Ranikot Fort is in Jamshoro District, Sindh."
+        },
+        {
+          "q": "The national poet of Pakistan is commonly regarded as:",
+          "options": [
+            "Allama Muhammad Iqbal",
+            "Faiz Ahmed Faiz",
+            "Mir Taqi Mir",
+            "Hafeez Jalandhari"
+          ],
+          "a": 0,
+          "ex": "Allama Iqbal is widely recognized as the national poet."
+        },
+        {
+          "q": "The Minar-e-Pakistan is in:",
+          "options": [
+            "Lahore",
+            "Karachi",
+            "Islamabad",
+            "Quetta"
+          ],
+          "a": 0,
+          "ex": "Minar-e-Pakistan stands in Lahore."
+        },
+        {
+          "q": "The title of the first revealed Quranic verses is associated with Surah:",
+          "options": [
+            "Al-Alaq",
+            "Al-Fatiha",
+            "Al-Ikhlas",
+            "Al-Kausar"
+          ],
+          "a": 0,
+          "ex": "The first revelation began with verses of Surah Al-Alaq."
+        },
+        {
+          "q": "Salah is the Arabic term for:",
+          "options": [
+            "Prayer",
+            "Charity",
+            "Fasting",
+            "Pilgrimage"
+          ],
+          "a": 0,
+          "ex": "Salah means the ritual prayer."
+        }
+      ]
+    },
+    {
+      "id": "hard",
+      "title": "Hard Questions",
+      "questions": [
+        {
+          "q": "In a relational database, normalization primarily aims to:",
+          "options": [
+            "Reduce redundancy and update anomalies",
+            "Increase duplicate records",
+            "Replace all keys",
+            "Remove relationships"
+          ],
+          "a": 0,
+          "ex": "Normalization organizes data to reduce redundancy and anomalies."
+        },
+        {
+          "q": "A candidate key is:",
+          "options": [
+            "Any minimal attribute set that uniquely identifies a row",
+            "A decorative column",
+            "A duplicate field",
+            "A backup file"
+          ],
+          "a": 0,
+          "ex": "A candidate key is a minimal superkey."
+        },
+        {
+          "q": "Which SQL clause filters groups after aggregation?",
+          "options": [
+            "WHERE",
+            "HAVING",
+            "ORDER BY",
+            "FROM"
+          ],
+          "a": 1,
+          "ex": "HAVING filters grouped results after aggregation."
+        },
+        {
+          "q": "Which SQL command removes a table definition and its data?",
+          "options": [
+            "DELETE",
+            "DROP",
+            "UPDATE",
+            "SELECT"
+          ],
+          "a": 1,
+          "ex": "DROP removes the table object and its contents."
+        },
+        {
+          "q": "A database transaction should satisfy ACID. The A means:",
+          "options": [
+            "Atomicity",
+            "Availability",
+            "Addressing",
+            "Aggregation"
+          ],
+          "a": 0,
+          "ex": "ACID begins with Atomicity."
+        },
+        {
+          "q": "In ACID properties, isolation means:",
+          "options": [
+            "Concurrent transactions do not improperly interfere",
+            "Data is always encrypted",
+            "A table has one row",
+            "The server has no backup"
+          ],
+          "a": 0,
+          "ex": "Isolation controls the visibility of concurrent transaction effects."
+        },
+        {
+          "q": "A B-tree index is mainly used to:",
+          "options": [
+            "Speed ordered searches and retrieval",
+            "Encrypt passwords",
+            "Compress images",
+            "Replace a database"
+          ],
+          "a": 0,
+          "ex": "B-trees support efficient indexed search and range retrieval."
+        },
+        {
+          "q": "In a spreadsheet, a circular reference occurs when:",
+          "options": [
+            "A formula directly or indirectly refers to itself",
+            "A cell has a border",
+            "A row is hidden",
+            "A file is copied"
+          ],
+          "a": 0,
+          "ex": "Circular references create a calculation loop."
+        },
+        {
+          "q": "Which data structure follows FIFO order?",
+          "options": [
+            "Stack",
+            "Queue",
+            "Tree",
+            "Graph"
+          ],
+          "a": 1,
+          "ex": "A queue is first-in, first-out."
+        },
+        {
+          "q": "Which data structure follows LIFO order?",
+          "options": [
+            "Queue",
+            "Stack",
+            "Array only",
+            "Network"
+          ],
+          "a": 1,
+          "ex": "A stack is last-in, first-out."
+        },
+        {
+          "q": "Binary search requires the list to be:",
+          "options": [
+            "Sorted",
+            "Encrypted",
+            "Randomized",
+            "Printed"
+          ],
+          "a": 0,
+          "ex": "Binary search repeatedly halves a sorted search space."
+        },
+        {
+          "q": "The worst-case time complexity of binary search is:",
+          "options": [
+            "O(1)",
+            "O(log n)",
+            "O(n)",
+            "O(n²)"
+          ],
+          "a": 1,
+          "ex": "Binary search takes logarithmic time in the worst case."
+        },
+        {
+          "q": "A hash table primarily provides:",
+          "options": [
+            "Key-based average constant-time lookup",
+            "Sequential printing",
+            "Image rendering",
+            "Grammar checking"
+          ],
+          "a": 0,
+          "ex": "Hashing maps keys to locations for fast average lookup."
+        },
+        {
+          "q": "A deadlock requires, among other conditions:",
+          "options": [
+            "Circular wait",
+            "Only one process",
+            "No resources",
+            "A sorted file"
+          ],
+          "a": 0,
+          "ex": "Circular wait is one of the four Coffman deadlock conditions."
+        },
+        {
+          "q": "The principle of least privilege means users receive:",
+          "options": [
+            "Only the access necessary for their duties",
+            "Administrator access by default",
+            "No passwords",
+            "Unlimited access"
+          ],
+          "a": 0,
+          "ex": "Least privilege limits permissions to what is needed."
+        },
+        {
+          "q": "A salted password hash helps defend against:",
+          "options": [
+            "Precomputed rainbow-table attacks",
+            "Power failure only",
+            "Printer jams",
+            "Screen burn-in"
+          ],
+          "a": 0,
+          "ex": "A unique salt makes precomputed hash tables less useful."
+        },
+        {
+          "q": "The CIA triad in information security stands for:",
+          "options": [
+            "Confidentiality, Integrity, Availability",
+            "Control, Internet, Access",
+            "Confidentiality, Internet, Authentication",
+            "Code, Identity, Audit"
+          ],
+          "a": 0,
+          "ex": "CIA means confidentiality, integrity, and availability."
+        },
+        {
+          "q": "A digital signature primarily provides:",
+          "options": [
+            "Integrity, authenticity, and non-repudiation",
+            "Faster typing",
+            "Physical backup",
+            "Screen resolution"
+          ],
+          "a": 0,
+          "ex": "Digital signatures verify origin and unchanged content."
+        },
+        {
+          "q": "HTTPS protects web traffic mainly through:",
+          "options": [
+            "TLS encryption and authentication",
+            "A larger monitor",
+            "A spreadsheet formula",
+            "A printer driver"
+          ],
+          "a": 0,
+          "ex": "HTTPS uses TLS to secure communication."
+        },
+        {
+          "q": "A relational join combines rows based on:",
+          "options": [
+            "A related condition between tables",
+            "Matching font sizes",
+            "File names only",
+            "Screen coordinates"
+          ],
+          "a": 0,
+          "ex": "Joins use related columns or join conditions."
+        },
+        {
+          "q": "In a one-to-many relationship, one row in the first table relates to:",
+          "options": [
+            "Many rows in the second table",
+            "No rows",
+            "Exactly one field only",
+            "Every database"
+          ],
+          "a": 0,
+          "ex": "One parent can be related to many child rows."
+        },
+        {
+          "q": "A data dictionary contains:",
+          "options": [
+            "Definitions and metadata about data elements",
+            "Only passwords",
+            "Only backup copies",
+            "Pictures of tables"
+          ],
+          "a": 0,
+          "ex": "A data dictionary documents fields, types, and meanings."
+        },
+        {
+          "q": "ETL stands for:",
+          "options": [
+            "Extract, Transform, Load",
+            "Enter, Test, Link",
+            "Encode, Transfer, Lock",
+            "Evaluate, Type, List"
+          ],
+          "a": 0,
+          "ex": "ETL pipelines extract, transform, and load data."
+        },
+        {
+          "q": "Data cleansing is the process of:",
+          "options": [
+            "Correcting or removing inaccurate, duplicate, or inconsistent data",
+            "Encrypting a monitor",
+            "Writing a cover letter",
+            "Installing a keyboard"
+          ],
+          "a": 0,
+          "ex": "Cleansing improves data quality."
+        },
+        {
+          "q": "A checksum that changes when file content changes helps verify:",
+          "options": [
+            "Integrity",
+            "Grammar",
+            "Screen size",
+            "Availability only"
+          ],
+          "a": 0,
+          "ex": "Checksums help detect content changes."
+        },
+        {
+          "q": "Choose the best completion: Had the officer arrived earlier, the report ___ submitted on time.",
+          "options": [
+            "will be",
+            "would have been",
+            "is",
+            "has"
+          ],
+          "a": 1,
+          "ex": "This is a third conditional: would have been submitted."
+        },
+        {
+          "q": "The word 'mitigate' most nearly means:",
+          "options": [
+            "Reduce the severity of",
+            "Multiply",
+            "Ignore",
+            "Certify"
+          ],
+          "a": 0,
+          "ex": "Mitigate means lessen or reduce severity."
+        },
+        {
+          "q": "Choose the correct usage:",
+          "options": [
+            "The data is reliable.",
+            "The data are reliable only in every context.",
+            "The datas is reliable.",
+            "The data were reliable is."
+          ],
+          "a": 0,
+          "ex": "In common modern usage, data may take a singular mass-noun treatment."
+        },
+        {
+          "q": "'Notwithstanding' means:",
+          "options": [
+            "Despite",
+            "Because of",
+            "Before",
+            "In addition only"
+          ],
+          "a": 0,
+          "ex": "Notwithstanding means despite or in spite of."
+        },
+        {
+          "q": "The best concise replacement for 'at this point in time' is:",
+          "options": [
+            "Now",
+            "At the current present time",
+            "In time point",
+            "Presently now time"
+          ],
+          "a": 0,
+          "ex": "Now is clearer and more concise."
+        },
+        {
+          "q": "If 40% of a number is 72, the number is:",
+          "options": [
+            "160",
+            "180",
+            "200",
+            "240"
+          ],
+          "a": 1,
+          "ex": "72 ÷ 0.4 = 180."
+        },
+        {
+          "q": "A price after a 15% discount is Rs. 1,700. Original price was:",
+          "options": [
+            "Rs. 1,950",
+            "Rs. 2,000",
+            "Rs. 2,050",
+            "Rs. 2,100"
+          ],
+          "a": 1,
+          "ex": "1700 is 85% of 2000."
+        },
+        {
+          "q": "If A:B = 3:5 and B:C = 10:7, then A:C equals:",
+          "options": [
+            "3:7",
+            "6:7",
+            "7:6",
+            "5:7"
+          ],
+          "a": 1,
+          "ex": "Make B common: A:B=6:10, B:C=10:7, so A:C=6:7."
+        },
+        {
+          "q": "The compound interest on Rs. 10,000 at 10% for 2 years is:",
+          "options": [
+            "Rs. 2,000",
+            "Rs. 2,100",
+            "Rs. 2,200",
+            "Rs. 1,100"
+          ],
+          "a": 1,
+          "ex": "Amount is 10000×1.1²=12100; CI=2100."
+        },
+        {
+          "q": "A can complete a task in 12 days and B in 18 days. Together they take:",
+          "options": [
+            "6 days",
+            "7.2 days",
+            "8 days",
+            "9 days"
+          ],
+          "a": 1,
+          "ex": "Combined rate is 1/12+1/18=5/36, so time=36/5=7.2 days."
+        },
+        {
+          "q": "The median of 3, 7, 9, 12, 20 is:",
+          "options": [
+            "7",
+            "9",
+            "10",
+            "12"
+          ],
+          "a": 1,
+          "ex": "The middle value in the ordered list is 9."
+        },
+        {
+          "q": "The probability of drawing an ace from a standard 52-card deck is:",
+          "options": [
+            "1/52",
+            "1/26",
+            "1/13",
+            "4/13"
+          ],
+          "a": 2,
+          "ex": "There are 4 aces, so probability is 4/52=1/13."
+        },
+        {
+          "q": "If log10 1000 equals:",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "10"
+          ],
+          "a": 2,
+          "ex": "10³ = 1000, so log10 1000 = 3."
+        },
+        {
+          "q": "The determinant of [[2,1],[3,4]] is:",
+          "options": [
+            "5",
+            "8",
+            "11",
+            "14"
+          ],
+          "a": 0,
+          "ex": "Determinant = 2×4 − 1×3 = 5."
+        },
+        {
+          "q": "The 18th Amendment to Pakistan's Constitution primarily:",
+          "options": [
+            "Enhanced provincial autonomy",
+            "Created the Senate",
+            "Established Pakistan",
+            "Introduced the first census"
+          ],
+          "a": 0,
+          "ex": "The 18th Amendment transferred significant powers to provinces."
+        },
+        {
+          "q": "The Council of Common Interests is associated with:",
+          "options": [
+            "Federal-provincial coordination",
+            "Only municipal taxation",
+            "Foreign embassies",
+            "University admissions"
+          ],
+          "a": 0,
+          "ex": "CCI addresses matters shared by the federation and provinces."
+        },
+        {
+          "q": "The Senate of Pakistan is intended to provide:",
+          "options": [
+            "Equal provincial representation",
+            "Only population-based representation",
+            "Judicial appointments only",
+            "Local council seats"
+          ],
+          "a": 0,
+          "ex": "The Senate gives provinces equal representation."
+        },
+        {
+          "q": "The Indus River enters Pakistan near:",
+          "options": [
+            "The northern highlands",
+            "Karachi Port",
+            "Thar Desert",
+            "Thatta only"
+          ],
+          "a": 0,
+          "ex": "The Indus enters Pakistan from the northern region and flows south."
+        },
+        {
+          "q": "Keenjhar Lake is important mainly as:",
+          "options": [
+            "A water source for Karachi and a wetland",
+            "A mountain glacier",
+            "A coal mine",
+            "A desert fort"
+          ],
+          "a": 0,
+          "ex": "Keenjhar supplies water and supports wetland ecology."
+        },
+        {
+          "q": "Mohenjo-daro belongs to the:",
+          "options": [
+            "Indus Valley Civilization",
+            "Gandhara Civilization only",
+            "Mughal period",
+            "British colonial period"
+          ],
+          "a": 0,
+          "ex": "Mohenjo-daro is an Indus Valley Civilization site."
+        },
+        {
+          "q": "The Sindh Local Government framework mainly concerns:",
+          "options": [
+            "Devolved local administration",
+            "Federal currency policy",
+            "Foreign affairs",
+            "National defense"
+          ],
+          "a": 0,
+          "ex": "Local government concerns administration at the local level."
+        },
+        {
+          "q": "The Objectives Resolution was adopted in:",
+          "options": [
+            "1940",
+            "1947",
+            "1949",
+            "1956"
+          ],
+          "a": 2,
+          "ex": "The Constituent Assembly adopted it in 1949."
+        },
+        {
+          "q": "The first Constitution of Pakistan was enforced in:",
+          "options": [
+            "1949",
+            "1956",
+            "1962",
+            "1973"
+          ],
+          "a": 1,
+          "ex": "The first Constitution came into force in 1956."
+        },
+        {
+          "q": "The Quran is divided into:",
+          "options": [
+            "30 parts (ajza)",
+            "12 parts",
+            "40 parts",
+            "7 parts"
+          ],
+          "a": 0,
+          "ex": "The Quran is commonly divided into 30 ajza."
+        },
+        {
+          "q": "The obligation of fasting in Ramadan was prescribed in:",
+          "options": [
+            "1 AH",
+            "2 AH",
+            "5 AH",
+            "10 AH"
+          ],
+          "a": 1,
+          "ex": "Fasting was made obligatory in 2 AH."
+        },
+        {
+          "q": "The Battle of Uhud occurred in:",
+          "options": [
+            "2 AH",
+            "3 AH",
+            "6 AH",
+            "8 AH"
+          ],
+          "a": 1,
+          "ex": "The Battle of Uhud took place in 3 AH."
+        },
+        {
+          "q": "Ijma means:",
+          "options": [
+            "Consensus of qualified scholars",
+            "Analogy only",
+            "Pilgrimage",
+            "Charity tax"
+          ],
+          "a": 0,
+          "ex": "Ijma refers to scholarly consensus."
+        },
+        {
+          "q": "The term 'Shura' refers to:",
+          "options": [
+            "Consultation",
+            "Inheritance",
+            "Fasting",
+            "Migration"
+          ],
+          "a": 0,
+          "ex": "Shura means consultation in decision-making."
+        },
+        {
+          "q": "A checksum is not, by itself, a substitute for:",
+          "options": [
+            "Cryptographic authentication",
+            "File naming",
+            "Sorting",
+            "Pagination"
+          ],
+          "a": 0,
+          "ex": "Checksums can detect change but do not prove who created data."
+        },
+        {
+          "q": "Which technology is commonly used for version control?",
+          "options": [
+            "Git",
+            "SMTP",
+            "DHCP",
+            "BIOS"
+          ],
+          "a": 0,
+          "ex": "Git tracks changes to files and code."
+        },
+        {
+          "q": "A REST API commonly uses:",
+          "options": [
+            "HTTP methods and resource URLs",
+            "Only printer commands",
+            "BIOS interrupts",
+            "Spreadsheet macros only"
+          ],
+          "a": 0,
+          "ex": "REST APIs expose resources through HTTP conventions."
+        },
+        {
+          "q": "JSON is primarily a format for:",
+          "options": [
+            "Structured data interchange",
+            "Image compression only",
+            "Operating system booting",
+            "Audio playback"
+          ],
+          "a": 0,
+          "ex": "JSON represents structured data in a text format."
+        },
+        {
+          "q": "In JSON, an object is enclosed in:",
+          "options": [
+            "Curly braces",
+            "Square brackets only",
+            "Parentheses",
+            "Angle brackets"
+          ],
+          "a": 0,
+          "ex": "JSON objects use curly braces; arrays use square brackets."
+        },
+        {
+          "q": "A regular expression is used to:",
+          "options": [
+            "Describe and match text patterns",
+            "Encrypt hard drives automatically",
+            "Increase RAM",
+            "Draw maps only"
+          ],
+          "a": 0,
+          "ex": "Regular expressions define text-search patterns."
+        },
+        {
+          "q": "OCR technology converts:",
+          "options": [
+            "Images of text into machine-readable text",
+            "Audio into electricity",
+            "Numbers into passwords",
+            "Web pages into cables"
+          ],
+          "a": 0,
+          "ex": "Optical character recognition extracts text from images."
+        },
+        {
+          "q": "A primary purpose of audit logs is to:",
+          "options": [
+            "Record actions and events for review",
+            "Increase screen brightness",
+            "Replace backups",
+            "Create random fonts"
+          ],
+          "a": 0,
+          "ex": "Audit logs support accountability and investigation."
+        },
+        {
+          "q": "A retention policy specifies:",
+          "options": [
+            "How long data should be kept and when it may be disposed",
+            "The monitor's warranty",
+            "Keyboard layout",
+            "Internet speed"
+          ],
+          "a": 0,
+          "ex": "Retention rules govern data storage duration and disposal."
+        },
+        {
+          "q": "The principle of data minimization means:",
+          "options": [
+            "Collect only data necessary for a stated purpose",
+            "Collect every possible field",
+            "Delete all data immediately",
+            "Share data publicly"
+          ],
+          "a": 0,
+          "ex": "Data minimization reduces unnecessary collection."
+        },
+        {
+          "q": "A system requirement describing response time is usually:",
+          "options": [
+            "Non-functional requirement",
+            "Primary key",
+            "Foreign key",
+            "Syntax error"
+          ],
+          "a": 0,
+          "ex": "Performance is a non-functional requirement."
+        },
+        {
+          "q": "Regression testing checks whether:",
+          "options": [
+            "A change broke previously working functions",
+            "A password is long",
+            "A monitor is clean",
+            "A file is alphabetized"
+          ],
+          "a": 0,
+          "ex": "Regression testing detects unintended effects of changes."
+        },
+        {
+          "q": "The term uptime measures:",
+          "options": [
+            "Time a system is available and operating",
+            "Number of users only",
+            "File size",
+            "CPU brand"
+          ],
+          "a": 0,
+          "ex": "Uptime measures operational availability."
+        },
+        {
+          "q": "A disaster recovery plan focuses on:",
+          "options": [
+            "Restoring critical systems after disruption",
+            "Writing routine emails",
+            "Choosing fonts",
+            "Buying stationery"
+          ],
+          "a": 0,
+          "ex": "Disaster recovery restores operations after serious incidents."
+        },
+        {
+          "q": "The best first response to suspected data loss is to:",
+          "options": [
+            "Preserve evidence and follow the incident procedure",
+            "Overwrite the disk repeatedly",
+            "Share passwords",
+            "Delete logs"
+          ],
+          "a": 0,
+          "ex": "Preserving evidence and reporting supports safe recovery and investigation."
+        },
+        {
+          "q": "Which sorting algorithm has average O(n log n) performance?",
+          "options": [
+            "Merge sort",
+            "Linear scan",
+            "Bubble sort always",
+            "Constant lookup"
+          ],
+          "a": 0,
+          "ex": "Merge sort has O(n log n) time complexity."
+        },
+        {
+          "q": "A binary tree node can have at most:",
+          "options": [
+            "One child",
+            "Two children",
+            "Three children",
+            "Unlimited children"
+          ],
+          "a": 1,
+          "ex": "A binary tree permits at most two children per node."
+        },
+        {
+          "q": "In a spreadsheet, a named range primarily improves:",
+          "options": [
+            "Formula readability and reference management",
+            "Printer speed",
+            "Virus removal",
+            "Monitor resolution"
+          ],
+          "a": 0,
+          "ex": "Named ranges make formulas easier to understand and maintain."
+        },
+        {
+          "q": "A data type for true/false values is commonly:",
+          "options": [
+            "Boolean",
+            "Float",
+            "Date only",
+            "Binary file"
+          ],
+          "a": 0,
+          "ex": "Boolean represents true or false."
+        },
+        {
+          "q": "Which is a lossless compression format commonly used for documents?",
+          "options": [
+            "ZIP",
+            "JPEG only",
+            "MP3 only",
+            "MPEG"
+          ],
+          "a": 0,
+          "ex": "ZIP compression preserves the original files exactly."
+        },
+        {
+          "q": "In access control, authentication answers:",
+          "options": [
+            "Who are you?",
+            "What are you allowed to do?",
+            "Where is the printer?",
+            "How large is the file?"
+          ],
+          "a": 0,
+          "ex": "Authentication verifies identity; authorization determines permissions."
+        },
+        {
+          "q": "Authorization answers:",
+          "options": [
+            "What actions may an authenticated user perform?",
+            "Who are you?",
+            "What is your password hint?",
+            "Which font is used?"
+          ],
+          "a": 0,
+          "ex": "Authorization controls permitted actions after identity is verified."
+        },
+        {
+          "q": "A proxy server can act as:",
+          "options": [
+            "An intermediary between clients and other servers",
+            "A spreadsheet cell",
+            "A keyboard driver only",
+            "A database primary key"
+          ],
+          "a": 0,
+          "ex": "A proxy forwards requests between clients and servers."
+        },
+        {
+          "q": "The safest way to share a confidential report is:",
+          "options": [
+            "Use an approved secure channel and authorized recipients",
+            "Post it publicly",
+            "Use an unknown file-sharing site",
+            "Send an unprotected public link"
+          ],
+          "a": 0,
+          "ex": "Approved secure channels limit exposure and support accountability."
+        },
+        {
+          "q": "Third normal form generally removes:",
+          "options": [
+            "Transitive dependencies on a non-key attribute",
+            "All primary keys",
+            "All relationships",
+            "Every index"
+          ],
+          "a": 0,
+          "ex": "3NF addresses transitive dependency."
+        },
+        {
+          "q": "A composite key consists of:",
+          "options": [
+            "Two or more attributes used together as a key",
+            "Only a password",
+            "A file and folder",
+            "A duplicated row"
+          ],
+          "a": 0,
+          "ex": "Composite keys combine multiple columns."
+        },
+        {
+          "q": "Which isolation level permits dirty reads?",
+          "options": [
+            "Read Uncommitted",
+            "Serializable",
+            "Repeatable Read",
+            "Snapshot only"
+          ],
+          "a": 0,
+          "ex": "Read Uncommitted allows reading uncommitted changes."
+        },
+        {
+          "q": "A SQL view is:",
+          "options": [
+            "A virtual table based on a query",
+            "A physical keyboard",
+            "A backup tape",
+            "A network cable"
+          ],
+          "a": 0,
+          "ex": "A view presents query results as a virtual table."
+        },
+        {
+          "q": "A transaction rollback:",
+          "options": [
+            "Undoes uncommitted changes",
+            "Deletes the database always",
+            "Commits all work",
+            "Encrypts a table"
+          ],
+          "a": 0,
+          "ex": "Rollback returns the transaction to its prior state."
+        },
+        {
+          "q": "A surrogate key is:",
+          "options": [
+            "An artificial identifier with no business meaning",
+            "A foreign server",
+            "A duplicate password",
+            "A chart title"
+          ],
+          "a": 0,
+          "ex": "Surrogate keys are generated identifiers."
+        },
+        {
+          "q": "Referential integrity ensures:",
+          "options": [
+            "Foreign-key references remain valid",
+            "All text is uppercase",
+            "No table has indexes",
+            "Every field is numeric"
+          ],
+          "a": 0,
+          "ex": "It prevents invalid references between related tables."
+        },
+        {
+          "q": "A data warehouse is optimized mainly for:",
+          "options": [
+            "Analysis and reporting",
+            "Keyboard input",
+            "Operating-system booting",
+            "Email sending only"
+          ],
+          "a": 0,
+          "ex": "Warehouses support analytical queries and reporting."
+        },
+        {
+          "q": "OLTP systems are designed primarily for:",
+          "options": [
+            "Routine transactional processing",
+            "Historical dashboards only",
+            "Image editing",
+            "Network cabling"
+          ],
+          "a": 0,
+          "ex": "OLTP supports frequent operational transactions."
+        },
+        {
+          "q": "A slowly changing dimension concerns:",
+          "options": [
+            "How dimension changes are tracked over time",
+            "CPU speed",
+            "File compression",
+            "Email signatures"
+          ],
+          "a": 0,
+          "ex": "SCD techniques preserve or overwrite historical dimension values."
+        },
+        {
+          "q": "In an IP network, subnetting is used to:",
+          "options": [
+            "Divide a network into smaller logical networks",
+            "Encrypt every file",
+            "Replace DNS",
+            "Increase monitor size"
+          ],
+          "a": 0,
+          "ex": "Subnetting partitions address space into subnets."
+        },
+        {
+          "q": "The CIDR notation /24 provides how many address bits for the network prefix?",
+          "options": [
+            "8",
+            "16",
+            "24",
+            "32"
+          ],
+          "a": 2,
+          "ex": "/24 means 24 network-prefix bits in IPv4."
+        },
+        {
+          "q": "A default gateway is used to:",
+          "options": [
+            "Reach destinations outside the local subnet",
+            "Open a Word file",
+            "Validate a password",
+            "Sort a database"
+          ],
+          "a": 0,
+          "ex": "The gateway forwards traffic beyond the local network."
+        },
+        {
+          "q": "A denial-of-service attack primarily targets:",
+          "options": [
+            "Availability",
+            "Confidentiality only",
+            "Grammar",
+            "Data type"
+          ],
+          "a": 0,
+          "ex": "DoS attacks make services unavailable."
+        },
+        {
+          "q": "SQL injection exploits:",
+          "options": [
+            "Unsafe construction of database queries from input",
+            "Weak printer ink",
+            "A broken screen",
+            "A missing font"
+          ],
+          "a": 0,
+          "ex": "SQL injection inserts malicious query syntax through input."
+        },
+        {
+          "q": "Input validation should occur:",
+          "options": [
+            "At trust boundaries before processing",
+            "Only after publication",
+            "Never",
+            "Only on paper"
+          ],
+          "a": 0,
+          "ex": "Validate untrusted input before using it."
+        },
+        {
+          "q": "A zero-day vulnerability is one:",
+          "options": [
+            "Unknown or unpatched when exploited",
+            "That affects zero files",
+            "With zero users",
+            "Already fully fixed"
+          ],
+          "a": 0,
+          "ex": "Zero-day vulnerabilities lack an available timely patch at discovery/exploitation."
+        },
+        {
+          "q": "A security incident's chain of custody documents:",
+          "options": [
+            "Who handled evidence and when",
+            "The office seating plan",
+            "Only file colors",
+            "CPU temperatures"
+          ],
+          "a": 0,
+          "ex": "Chain of custody preserves evidence accountability."
+        },
+        {
+          "q": "A RACI matrix assigns:",
+          "options": [
+            "Responsible, Accountable, Consulted, Informed roles",
+            "Random access to computer input",
+            "Report accuracy and control indexes",
+            "Router addresses"
+          ],
+          "a": 0,
+          "ex": "RACI clarifies roles in a process or project."
+        },
+        {
+          "q": "A service-level agreement commonly defines:",
+          "options": [
+            "Expected service performance and responsibilities",
+            "A keyboard shortcut",
+            "A database field type",
+            "A tax rate"
+          ],
+          "a": 0,
+          "ex": "An SLA states service targets and obligations."
+        },
+        {
+          "q": "The word 'ubiquitous' means:",
+          "options": [
+            "Present or found everywhere",
+            "Rare",
+            "Temporary",
+            "Unclear"
+          ],
+          "a": 0,
+          "ex": "Ubiquitous means widespread or everywhere."
+        },
+        {
+          "q": "'Pragmatic' most nearly means:",
+          "options": [
+            "Practical",
+            "Theoretical only",
+            "Emotional",
+            "Invisible"
+          ],
+          "a": 0,
+          "ex": "Pragmatic means practical and results-oriented."
+        },
+        {
+          "q": "Choose the correct form: No sooner had the meeting begun ___ the power failed.",
+          "options": [
+            "when",
+            "than",
+            "then",
+            "that"
+          ],
+          "a": 1,
+          "ex": "The paired construction is no sooner...than."
+        }
+      ]
+    }
+  ]
+}
 
