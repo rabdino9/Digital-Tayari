@@ -1,0 +1,2221 @@
+{
+  "meta": {
+    "title": "CDA Project Directors Civil & E&M Guess Paper",
+    "description": "Practice MCQs for Capital Development Authority Project Director (Civil) and Project Director (E&M) recruitment tests, based on the official CDA paper-pattern areas and advertised senior engineering/project-management roles.",
+    "keywords": "CDA, Capital Development Authority, Project Director Civil, Project Director E&M, civil engineering, electrical engineering, mechanical engineering, project management, contract management, PPRA, Islamabad"
+  },
+  "subcategories": [
+    {
+      "id": "project_director_civil",
+      "title": "Project Director (Civil) - 100 MCQs",
+      "questions": [
+        {
+          "q": "The Standard Penetration Test is primarily used to estimate:",
+          "options": [
+            "Soil color",
+            "In-situ soil resistance",
+            "Concrete slump",
+            "Bitumen grade"
+          ],
+          "a": 1,
+          "ex": "SPT provides an N-value related to in-situ soil resistance."
+        },
+        {
+          "q": "The liquid limit of a soil is determined using:",
+          "options": [
+            "Atterberg limits testing",
+            "Los Angeles test",
+            "Slump cone",
+            "Proctor hammer only"
+          ],
+          "a": 0,
+          "ex": "Liquid limit is one of the Atterberg consistency limits."
+        },
+        {
+          "q": "For a normally consolidated clay, the overconsolidation ratio is:",
+          "options": [
+            "Less than 1",
+            "Equal to 1",
+            "Greater than 10 always",
+            "Zero"
+          ],
+          "a": 1,
+          "ex": "Normally consolidated clay has OCR approximately equal to 1."
+        },
+        {
+          "q": "The effective stress principle is associated with:",
+          "options": [
+            "Terzaghi",
+            "Bernoulli",
+            "Darcy only",
+            "Mohr only"
+          ],
+          "a": 0,
+          "ex": "Terzaghi developed the effective stress concept."
+        },
+        {
+          "q": "Darcy's law describes flow through:",
+          "options": [
+            "Porous media",
+            "Steel beams",
+            "Concrete columns",
+            "Traffic lanes"
+          ],
+          "a": 0,
+          "ex": "Darcy's law relates discharge velocity to hydraulic gradient in porous media."
+        },
+        {
+          "q": "A retaining wall is checked against sliding, overturning, and:",
+          "options": [
+            "Bearing capacity",
+            "Paint thickness only",
+            "Traffic volume",
+            "Sound absorption"
+          ],
+          "a": 0,
+          "ex": "Foundation bearing capacity is a major retaining-wall stability check."
+        },
+        {
+          "q": "The angle of repose is the maximum angle at which a soil slope remains:",
+          "options": [
+            "Stable without sliding",
+            "Fully saturated",
+            "Compacted by water",
+            "Vertical always"
+          ],
+          "a": 0,
+          "ex": "It is the limiting stable slope angle for loose granular material."
+        },
+        {
+          "q": "A shallow foundation transfers load to soil mainly near:",
+          "options": [
+            "The ground surface",
+            "The stratosphere",
+            "A tunnel only",
+            "A river bed always"
+          ],
+          "a": 0,
+          "ex": "Shallow foundations are founded at relatively small depth."
+        },
+        {
+          "q": "A pile foundation is generally used when:",
+          "options": [
+            "Near-surface soil cannot safely support the load",
+            "The building has no load",
+            "Only painting is required",
+            "There is no soil"
+          ],
+          "a": 0,
+          "ex": "Piles transfer load to deeper competent strata or by skin friction."
+        },
+        {
+          "q": "The coefficient of permeability is commonly expressed in:",
+          "options": [
+            "Length per time",
+            "Force per area",
+            "Mass per volume",
+            "Time squared"
+          ],
+          "a": 0,
+          "ex": "Hydraulic conductivity has dimensions of velocity."
+        },
+        {
+          "q": "The slump test measures concrete:",
+          "options": [
+            "Workability",
+            "Compressive strength directly",
+            "Cement fineness",
+            "Steel yield stress"
+          ],
+          "a": 0,
+          "ex": "Slump is a field measure of fresh-concrete workability."
+        },
+        {
+          "q": "The characteristic compressive strength of concrete is usually assessed at:",
+          "options": [
+            "7 days only",
+            "28 days",
+            "90 minutes",
+            "One year only"
+          ],
+          "a": 1,
+          "ex": "Concrete strength is conventionally specified at 28 days."
+        },
+        {
+          "q": "The water-cement ratio chiefly affects concrete strength and:",
+          "options": [
+            "Workability and durability",
+            "Steel diameter only",
+            "Survey accuracy",
+            "Road alignment"
+          ],
+          "a": 0,
+          "ex": "Water-cement ratio strongly influences strength, workability, and durability."
+        },
+        {
+          "q": "Air entrainment in concrete improves resistance to:",
+          "options": [
+            "Freeze-thaw action",
+            "Steel cutting",
+            "Survey error",
+            "Earth pressure"
+          ],
+          "a": 0,
+          "ex": "Entrained air relieves hydraulic pressure during freezing."
+        },
+        {
+          "q": "The fineness of cement affects mainly its:",
+          "options": [
+            "Rate of hydration and early strength",
+            "Steel yield",
+            "Soil bearing",
+            "Road camber"
+          ],
+          "a": 0,
+          "ex": "Finer cement hydrates more rapidly and can increase early strength."
+        },
+        {
+          "q": "A higher fineness modulus of aggregate generally indicates:",
+          "options": [
+            "Coarser aggregate",
+            "More water",
+            "More cement",
+            "Lower density always"
+          ],
+          "a": 0,
+          "ex": "Fineness modulus is an index of aggregate coarseness."
+        },
+        {
+          "q": "The Los Angeles abrasion test measures aggregate:",
+          "options": [
+            "Resistance to abrasion and impact",
+            "Water absorption only",
+            "Cement setting",
+            "Soil plasticity"
+          ],
+          "a": 0,
+          "ex": "It assesses aggregate toughness and abrasion resistance."
+        },
+        {
+          "q": "The main purpose of curing concrete is to:",
+          "options": [
+            "Maintain moisture and temperature for hydration",
+            "Remove all water immediately",
+            "Increase sand size",
+            "Polish reinforcement"
+          ],
+          "a": 0,
+          "ex": "Curing supports cement hydration and strength development."
+        },
+        {
+          "q": "Honeycombing in concrete is commonly caused by:",
+          "options": [
+            "Poor compaction or congested reinforcement",
+            "Excessive surveying",
+            "High steel yield",
+            "Correct vibration"
+          ],
+          "a": 0,
+          "ex": "Voids occur when concrete is not properly placed and compacted."
+        },
+        {
+          "q": "A construction joint is provided where:",
+          "options": [
+            "Concrete placement is intentionally interrupted",
+            "A wall is demolished",
+            "A road is surveyed",
+            "Steel is painted"
+          ],
+          "a": 0,
+          "ex": "Construction joints accommodate planned interruptions in concreting."
+        },
+        {
+          "q": "In a simply supported beam, the bending moment at a simple support is:",
+          "options": [
+            "Zero",
+            "Maximum always",
+            "Infinite",
+            "Equal to shear always"
+          ],
+          "a": 0,
+          "ex": "A simple support does not resist a couple, so end moment is zero."
+        },
+        {
+          "q": "The neutral axis of a homogeneous symmetric beam section passes through its:",
+          "options": [
+            "Centroid",
+            "Top surface",
+            "Bottom cover",
+            "Shear key only"
+          ],
+          "a": 0,
+          "ex": "For a homogeneous section, the neutral axis passes through the centroid."
+        },
+        {
+          "q": "The unit of second moment of area is:",
+          "options": [
+            "m",
+            "m²",
+            "m³",
+            "m⁴"
+          ],
+          "a": 3,
+          "ex": "Second moment of area has dimensions of length to the fourth power."
+        },
+        {
+          "q": "Euler buckling theory applies primarily to:",
+          "options": [
+            "Long slender columns",
+            "Short blocks only",
+            "Road pavements",
+            "Water pipes only"
+          ],
+          "a": 0,
+          "ex": "Euler theory models elastic buckling of slender columns."
+        },
+        {
+          "q": "The factor of safety is generally the ratio of failure strength to:",
+          "options": [
+            "Allowable or working stress",
+            "Concrete slump",
+            "Dead load only",
+            "Span length"
+          ],
+          "a": 0,
+          "ex": "Factor of safety compares capacity with permissible demand."
+        },
+        {
+          "q": "Ductility is the ability of a material to:",
+          "options": [
+            "Undergo plastic deformation before fracture",
+            "Resist all deformation",
+            "Absorb no energy",
+            "Remain perfectly brittle"
+          ],
+          "a": 0,
+          "ex": "Ductile materials deform significantly before failure."
+        },
+        {
+          "q": "A moment-resisting frame resists lateral loads primarily through:",
+          "options": [
+            "Beam-column bending action",
+            "Roof paint",
+            "Soil color",
+            "Drainage pipes"
+          ],
+          "a": 0,
+          "ex": "Rigid beam-column connections develop frame moments."
+        },
+        {
+          "q": "The purpose of stirrups in a reinforced concrete beam is mainly to resist:",
+          "options": [
+            "Shear",
+            "Temperature only",
+            "Settlement only",
+            "Wind pressure on windows"
+          ],
+          "a": 0,
+          "ex": "Stirrups provide shear reinforcement and restrain diagonal cracking."
+        },
+        {
+          "q": "Development length is provided to ensure:",
+          "options": [
+            "Adequate bond between steel and concrete",
+            "A larger road width",
+            "Lower water pressure",
+            "Faster surveying"
+          ],
+          "a": 0,
+          "ex": "Development length develops the design stress in reinforcement through bond."
+        },
+        {
+          "q": "Prestressed concrete introduces:",
+          "options": [
+            "Pre-compression before service loading",
+            "Only tensile stress",
+            "No reinforcement",
+            "A soil surcharge"
+          ],
+          "a": 0,
+          "ex": "Prestressing counteracts tensile stresses by pre-compression."
+        },
+        {
+          "q": "The critical path in a project network is the path with:",
+          "options": [
+            "Longest total duration",
+            "Fewest activities",
+            "Lowest cost always",
+            "Most workers always"
+          ],
+          "a": 0,
+          "ex": "The longest path determines the minimum project duration."
+        },
+        {
+          "q": "Total float of a critical activity is normally:",
+          "options": [
+            "Zero",
+            "One month",
+            "Equal to cost",
+            "Infinite"
+          ],
+          "a": 0,
+          "ex": "Critical activities have zero total float under the baseline schedule."
+        },
+        {
+          "q": "A Gantt chart primarily displays:",
+          "options": [
+            "Activities against time",
+            "Soil grain size",
+            "Concrete chemistry",
+            "Legal ownership"
+          ],
+          "a": 0,
+          "ex": "Gantt charts show planned activities on a time scale."
+        },
+        {
+          "q": "Earned value management compares planned value, earned value, and:",
+          "options": [
+            "Actual cost",
+            "Concrete density",
+            "Traffic speed",
+            "Rainfall only"
+          ],
+          "a": 0,
+          "ex": "EVM uses PV, EV, and AC."
+        },
+        {
+          "q": "If CPI is less than 1.0, the project is generally:",
+          "options": [
+            "Over budget",
+            "Under budget",
+            "Ahead of schedule necessarily",
+            "Complete"
+          ],
+          "a": 0,
+          "ex": "CPI = EV/AC; below 1 indicates cost inefficiency."
+        },
+        {
+          "q": "If SPI is greater than 1.0, the project is generally:",
+          "options": [
+            "Ahead of schedule",
+            "Behind schedule",
+            "Over budget necessarily",
+            "Cancelled"
+          ],
+          "a": 0,
+          "ex": "SPI = EV/PV; above 1 indicates progress ahead of plan."
+        },
+        {
+          "q": "A risk register records risks, owners, responses, and:",
+          "options": [
+            "Status or probability/impact information",
+            "Only paint colors",
+            "Employee salaries only",
+            "Concrete cube sizes only"
+          ],
+          "a": 0,
+          "ex": "Risk registers document identification, analysis, ownership, and response."
+        },
+        {
+          "q": "A method statement explains:",
+          "options": [
+            "How a work activity will be safely and correctly executed",
+            "Only the project title",
+            "The contractor's bank account",
+            "A weather forecast"
+          ],
+          "a": 0,
+          "ex": "Method statements define sequence, resources, controls, and safety measures."
+        },
+        {
+          "q": "A variation order changes:",
+          "options": [
+            "The contract scope, quantity, cost, or time",
+            "Only the office address",
+            "The national budget",
+            "A soil classification table"
+          ],
+          "a": 0,
+          "ex": "Variations authorize changes to contracted work."
+        },
+        {
+          "q": "Liquidated damages are generally:",
+          "options": [
+            "Pre-agreed damages for specified delay or breach",
+            "A contractor bonus",
+            "A tax exemption",
+            "A design drawing"
+          ],
+          "a": 0,
+          "ex": "They are agreed compensation subject to contract terms."
+        },
+        {
+          "q": "A performance bond primarily protects the employer against:",
+          "options": [
+            "Contractor non-performance",
+            "Minor spelling errors",
+            "Weather changes always",
+            "Survey benchmarks"
+          ],
+          "a": 0,
+          "ex": "A bond provides financial security for contractual performance."
+        },
+        {
+          "q": "A bill of quantities is used mainly for:",
+          "options": [
+            "Describing and pricing measured work items",
+            "Hiring architects only",
+            "Issuing passports",
+            "Testing soil pH"
+          ],
+          "a": 0,
+          "ex": "BOQs list measurable items and quantities for tendering/payment."
+        },
+        {
+          "q": "In a lump-sum contract, the contractor generally agrees to:",
+          "options": [
+            "Complete defined scope for an agreed total price",
+            "Charge any price without scope",
+            "Supply no materials",
+            "Work without drawings"
+          ],
+          "a": 0,
+          "ex": "Lump-sum pricing is based on a defined scope and total price."
+        },
+        {
+          "q": "A prequalification process evaluates contractors before:",
+          "options": [
+            "Inviting or accepting bids",
+            "Pouring concrete only",
+            "Opening a site office",
+            "Issuing a completion certificate"
+          ],
+          "a": 0,
+          "ex": "Prequalification screens capability and experience before tendering."
+        },
+        {
+          "q": "Under public procurement, an evaluation criterion should be:",
+          "options": [
+            "Stated in the bidding documents",
+            "Changed secretly after bids",
+            "Based on personal preference",
+            "Omitted from the tender"
+          ],
+          "a": 0,
+          "ex": "Transparent stated criteria support fair procurement."
+        },
+        {
+          "q": "A feasibility study usually examines technical, economic, and:",
+          "options": [
+            "Environmental and legal feasibility",
+            "Paint quality only",
+            "Employee attendance",
+            "Office furniture"
+          ],
+          "a": 0,
+          "ex": "Feasibility is multidisciplinary and includes environmental/legal constraints."
+        },
+        {
+          "q": "A topographic survey records:",
+          "options": [
+            "Ground levels and physical features",
+            "Only building paint",
+            "Concrete strength",
+            "Contractor profits"
+          ],
+          "a": 0,
+          "ex": "Topographic surveys map terrain and existing features."
+        },
+        {
+          "q": "A benchmark in surveying is a point of known:",
+          "options": [
+            "Elevation",
+            "Cement content",
+            "Traffic count only",
+            "Steel grade"
+          ],
+          "a": 0,
+          "ex": "A benchmark provides a known elevation reference."
+        },
+        {
+          "q": "The backsight in levelling is taken on:",
+          "options": [
+            "A point of known elevation or established reference",
+            "An unknown point only",
+            "A concrete mixer",
+            "A road vehicle"
+          ],
+          "a": 0,
+          "ex": "A backsight establishes instrument height from a known RL."
+        },
+        {
+          "q": "The purpose of a transition curve on a highway is to:",
+          "options": [
+            "Introduce curvature gradually",
+            "Increase sudden lateral force",
+            "Remove drainage",
+            "Stop all traffic"
+          ],
+          "a": 0,
+          "ex": "Transition curves provide gradual change from tangent to circular curve."
+        },
+        {
+          "q": "Superelevation on a horizontal curve counteracts:",
+          "options": [
+            "Centrifugal effect",
+            "Concrete shrinkage",
+            "Soil settlement only",
+            "Wind uplift"
+          ],
+          "a": 0,
+          "ex": "Banking helps balance lateral acceleration on curves."
+        },
+        {
+          "q": "The CBR test is widely used for:",
+          "options": [
+            "Pavement subgrade strength",
+            "Steel tensile strength",
+            "Cement setting",
+            "Water turbidity"
+          ],
+          "a": 0,
+          "ex": "California Bearing Ratio indicates subgrade support."
+        },
+        {
+          "q": "Flexible pavements distribute load mainly through:",
+          "options": [
+            "Layered granular action and bituminous layers",
+            "Rigid slab action only",
+            "Steel trusses",
+            "Suspension cables"
+          ],
+          "a": 0,
+          "ex": "Flexible pavement transfers load through layered systems."
+        },
+        {
+          "q": "The prime coat is applied between:",
+          "options": [
+            "Granular base and bituminous layer",
+            "Two steel beams",
+            "Two water tanks",
+            "Concrete and reinforcement"
+          ],
+          "a": 0,
+          "ex": "Prime coat binds and seals the granular base before asphalt."
+        },
+        {
+          "q": "Camber on a road is provided mainly for:",
+          "options": [
+            "Drainage of surface water",
+            "Increasing traffic noise",
+            "Reducing lane width",
+            "Supporting columns"
+          ],
+          "a": 0,
+          "ex": "Crossfall drains rainwater from the pavement."
+        },
+        {
+          "q": "A water distribution system should maintain adequate:",
+          "options": [
+            "Pressure and flow at demand points",
+            "Soil plasticity",
+            "Concrete slump only",
+            "Traffic speed"
+          ],
+          "a": 0,
+          "ex": "Distribution design requires sufficient pressure and flow."
+        },
+        {
+          "q": "The Hazen-Williams equation is commonly used for:",
+          "options": [
+            "Head loss in water pipes",
+            "Structural buckling",
+            "Traffic signals",
+            "Concrete curing"
+          ],
+          "a": 0,
+          "ex": "Hazen-Williams estimates friction loss in pressurized water conduits."
+        },
+        {
+          "q": "The BOD of wastewater measures:",
+          "options": [
+            "Biodegradable organic pollution demand",
+            "Pipe diameter",
+            "Chlorine color",
+            "Soil bearing"
+          ],
+          "a": 0,
+          "ex": "Biochemical oxygen demand reflects oxygen used by microorganisms."
+        },
+        {
+          "q": "The main purpose of a septic tank is:",
+          "options": [
+            "Primary treatment and settling of domestic wastewater",
+            "Electrical distribution",
+            "Road compaction",
+            "Rainfall measurement"
+          ],
+          "a": 0,
+          "ex": "Septic tanks settle solids and provide anaerobic treatment."
+        },
+        {
+          "q": "A sewer designed to carry both stormwater and sewage is:",
+          "options": [
+            "Combined sewer",
+            "Separate sewer",
+            "Rising main only",
+            "Force main only"
+          ],
+          "a": 0,
+          "ex": "Combined sewers carry both flows in one system."
+        },
+        {
+          "q": "The urban planning term FAR means:",
+          "options": [
+            "Floor Area Ratio",
+            "Foundation Area Requirement",
+            "Final Asphalt Rating",
+            "Fire Access Route"
+          ],
+          "a": 0,
+          "ex": "FAR is total floor area divided by plot area."
+        },
+        {
+          "q": "A master plan provides:",
+          "options": [
+            "A long-term framework for land use and infrastructure",
+            "Only a single beam design",
+            "A material test",
+            "A payroll schedule"
+          ],
+          "a": 0,
+          "ex": "Master plans guide coordinated spatial development."
+        },
+        {
+          "q": "An environmental impact assessment is conducted to:",
+          "options": [
+            "Identify and manage environmental effects of a project",
+            "Calculate only concrete volume",
+            "Set employee wages",
+            "Replace a structural design"
+          ],
+          "a": 0,
+          "ex": "EIA evaluates likely environmental impacts and mitigation."
+        },
+        {
+          "q": "Life-cycle costing considers:",
+          "options": [
+            "Initial, operation, maintenance, and disposal costs",
+            "Only tender price",
+            "Only land price",
+            "Only paint cost"
+          ],
+          "a": 0,
+          "ex": "Life-cycle costing evaluates total cost over the asset life."
+        },
+        {
+          "q": "A green building approach emphasizes:",
+          "options": [
+            "Resource efficiency, low impact, and occupant health",
+            "Maximum energy waste",
+            "No ventilation",
+            "Use of hazardous materials"
+          ],
+          "a": 0,
+          "ex": "Green buildings reduce resource use and environmental impact."
+        },
+        {
+          "q": "The official CDA paper pattern lists PPRA Rules under:",
+          "options": [
+            "Senior Civil and E&M director-level areas",
+            "Only laboratory testing",
+            "Only road materials",
+            "Only surveying"
+          ],
+          "a": 0,
+          "ex": "The official pattern includes PPRA Rules for director/deputy director Civil and E&M."
+        },
+        {
+          "q": "In project governance, a steering committee generally provides:",
+          "options": [
+            "Strategic oversight and decisions",
+            "Daily concrete mixing",
+            "Only site security",
+            "Personal procurement"
+          ],
+          "a": 0,
+          "ex": "Steering committees guide high-level governance and escalation."
+        },
+        {
+          "q": "The purpose of a change-control board is to:",
+          "options": [
+            "Evaluate and authorize significant project changes",
+            "Approve all leave applications",
+            "Measure soil density",
+            "Operate a crane"
+          ],
+          "a": 0,
+          "ex": "Change boards assess scope, cost, schedule, and risk impacts."
+        },
+        {
+          "q": "A nonconformance report records:",
+          "options": [
+            "Work or material that fails specified requirements",
+            "A weather forecast",
+            "A payment password",
+            "A highway route only"
+          ],
+          "a": 0,
+          "ex": "NCRs document deviations and corrective action."
+        },
+        {
+          "q": "Quality assurance is mainly process-oriented, while quality control is mainly:",
+          "options": [
+            "Inspection and testing of outputs",
+            "Budget forecasting only",
+            "Land acquisition",
+            "Personnel recruitment"
+          ],
+          "a": 0,
+          "ex": "QC verifies deliverables through inspection and testing."
+        },
+        {
+          "q": "The main purpose of a site safety plan is to:",
+          "options": [
+            "Identify hazards and control risks",
+            "Increase project duration",
+            "Avoid all documentation",
+            "Set concrete color"
+          ],
+          "a": 0,
+          "ex": "Safety plans establish hazard controls and responsibilities."
+        },
+        {
+          "q": "A method of reducing construction waste is:",
+          "options": [
+            "Accurate quantity planning and material reuse",
+            "Uncontrolled over-ordering",
+            "Open dumping",
+            "Ignoring drawings"
+          ],
+          "a": 0,
+          "ex": "Planning and reuse reduce waste and cost."
+        },
+        {
+          "q": "The Pakistan Engineering Council is associated with:",
+          "options": [
+            "Professional regulation and registration of engineers",
+            "Issuing passports",
+            "Road toll collection",
+            "Weather forecasting"
+          ],
+          "a": 0,
+          "ex": "PEC regulates the engineering profession in Pakistan."
+        },
+        {
+          "q": "A project closeout normally includes as-built drawings, final accounts, and:",
+          "options": [
+            "Operation and maintenance documentation",
+            "Initial feasibility only",
+            "Unapproved variations",
+            "Unrecorded defects"
+          ],
+          "a": 0,
+          "ex": "Closeout hands over records and finalizes contractual matters."
+        },
+        {
+          "q": "The critical compressive stress in a column is affected strongly by:",
+          "options": [
+            "Slenderness ratio and end conditions",
+            "Paint brand",
+            "Road camber",
+            "Water turbidity"
+          ],
+          "a": 0,
+          "ex": "Buckling resistance depends on slenderness and restraint."
+        },
+        {
+          "q": "The modulus of elasticity is the ratio of stress to:",
+          "options": [
+            "Strain in the elastic range",
+            "Density",
+            "Slump",
+            "Porosity only"
+          ],
+          "a": 0,
+          "ex": "Young's modulus is stress divided by elastic strain."
+        },
+        {
+          "q": "A shear force diagram shows variation of:",
+          "options": [
+            "Internal shear along a member",
+            "Concrete color",
+            "Traffic volume",
+            "Water quality"
+          ],
+          "a": 0,
+          "ex": "SFD plots internal shear force along the beam."
+        },
+        {
+          "q": "A contour line joins points of equal:",
+          "options": [
+            "Elevation",
+            "Temperature always",
+            "Traffic speed",
+            "Soil density only"
+          ],
+          "a": 0,
+          "ex": "Contours connect equal ground elevations."
+        },
+        {
+          "q": "The main purpose of expansion joints in structures is to accommodate:",
+          "options": [
+            "Thermal and movement effects",
+            "Concrete mixing",
+            "Soil classification",
+            "Survey bearings"
+          ],
+          "a": 0,
+          "ex": "Joints allow movement due to temperature and other effects."
+        },
+        {
+          "q": "A geotextile may be used for separation, filtration, drainage, and:",
+          "options": [
+            "Reinforcement",
+            "Cement hydration",
+            "Steel welding",
+            "Electrical insulation only"
+          ],
+          "a": 0,
+          "ex": "Geotextiles have several soil and pavement functions including reinforcement."
+        },
+        {
+          "q": "The project baseline is the approved reference for:",
+          "options": [
+            "Scope, schedule, and cost performance",
+            "Only staff attendance",
+            "Only weather",
+            "Only paint"
+          ],
+          "a": 0,
+          "ex": "Baselines allow objective performance comparison."
+        },
+        {
+          "q": "A stakeholder is any person or organization that:",
+          "options": [
+            "Can affect or be affected by the project",
+            "Only supplies cement",
+            "Owns a vehicle",
+            "Works only after completion"
+          ],
+          "a": 0,
+          "ex": "Stakeholders influence or experience project outcomes."
+        },
+        {
+          "q": "A dispute adjudication mechanism aims to:",
+          "options": [
+            "Resolve contract disputes efficiently during the project",
+            "Increase disputes",
+            "Avoid all records",
+            "Replace the contract"
+          ],
+          "a": 0,
+          "ex": "Adjudication provides a structured interim dispute process."
+        },
+        {
+          "q": "The best first step after detecting a major design discrepancy is to:",
+          "options": [
+            "Document, assess, and escalate through the approved process",
+            "Conceal it",
+            "Proceed without review",
+            "Delete drawings"
+          ],
+          "a": 0,
+          "ex": "Controlled documentation and escalation protect safety and project outcomes."
+        },
+        {
+          "q": "Islamabad is located near the:",
+          "options": [
+            "Margalla Hills",
+            "Kirthar Range",
+            "Thar Desert only",
+            "Makran Coast"
+          ],
+          "a": 0,
+          "ex": "The Margalla Hills form the northern backdrop of Islamabad."
+        },
+        {
+          "q": "Pakistan's national language is:",
+          "options": [
+            "Urdu",
+            "Sindhi",
+            "English",
+            "Punjabi"
+          ],
+          "a": 0,
+          "ex": "Urdu is the national language."
+        },
+        {
+          "q": "The Pakistan Resolution was passed in:",
+          "options": [
+            "1940",
+            "1947",
+            "1956",
+            "1973"
+          ],
+          "a": 0,
+          "ex": "The Lahore Resolution was adopted in 1940."
+        },
+        {
+          "q": "The capital of Pakistan is:",
+          "options": [
+            "Islamabad",
+            "Karachi",
+            "Lahore",
+            "Rawalpindi"
+          ],
+          "a": 0,
+          "ex": "Islamabad is the federal capital."
+        },
+        {
+          "q": "The opposite of 'compliance' is:",
+          "options": [
+            "Violation or non-compliance",
+            "Approval",
+            "Conformity",
+            "Adherence"
+          ],
+          "a": 0,
+          "ex": "Non-compliance means failure to meet a rule or requirement."
+        },
+        {
+          "q": "Choose the correct form: The works ___ completed before the deadline.",
+          "options": [
+            "was",
+            "were",
+            "is",
+            "has"
+          ],
+          "a": 1,
+          "ex": "Plural subject works takes were in this construction."
+        },
+        {
+          "q": "A concise executive summary should:",
+          "options": [
+            "Present key findings and decisions clearly",
+            "Repeat every page",
+            "Use unexplained jargon",
+            "Omit conclusions"
+          ],
+          "a": 0,
+          "ex": "Executive summaries highlight essential information for decision-makers."
+        },
+        {
+          "q": "The coefficient of thermal expansion is important in designing:",
+          "options": [
+            "Expansion joints and movement provisions",
+            "Only soil color",
+            "Traffic signs only",
+            "Water chlorination"
+          ],
+          "a": 0,
+          "ex": "Thermal movement must be accommodated in structures and pavements."
+        },
+        {
+          "q": "A diaphragm in a building transfers lateral forces to:",
+          "options": [
+            "Lateral-load-resisting elements",
+            "Plumbing fixtures only",
+            "Roof paint",
+            "Foundation soil only"
+          ],
+          "a": 0,
+          "ex": "Floor or roof diaphragms distribute lateral loads to frames or walls."
+        },
+        {
+          "q": "Shear walls are used primarily to resist:",
+          "options": [
+            "Lateral wind and seismic loads",
+            "Only dead load",
+            "Water turbidity",
+            "Road friction"
+          ],
+          "a": 0,
+          "ex": "Shear walls provide substantial lateral stiffness and strength."
+        },
+        {
+          "q": "A seismic design philosophy commonly aims for life safety and:",
+          "options": [
+            "Controlled ductile behavior",
+            "Brittle sudden collapse",
+            "No energy dissipation",
+            "Zero movement"
+          ],
+          "a": 0,
+          "ex": "Ductile detailing helps structures dissipate earthquake energy."
+        },
+        {
+          "q": "The purpose of a bill of quantities preamble is to:",
+          "options": [
+            "Define measurement and pricing conventions",
+            "Replace all drawings",
+            "List employee names",
+            "Specify weather"
+          ],
+          "a": 0,
+          "ex": "Preambles clarify how work items are measured and priced."
+        },
+        {
+          "q": "A snag list contains:",
+          "options": [
+            "Defects or incomplete items requiring correction",
+            "Only approved payments",
+            "Survey coordinates only",
+            "Weather warnings"
+          ],
+          "a": 0,
+          "ex": "Snagging identifies outstanding defects before handover."
+        },
+        {
+          "q": "A retention amount in a construction contract is held to:",
+          "options": [
+            "Secure performance and correction of defects",
+            "Pay unrelated taxes only",
+            "Replace the contractor",
+            "Buy land"
+          ],
+          "a": 0,
+          "ex": "Retention provides security until contractual obligations are fulfilled."
+        },
+        {
+          "q": "A check dam is constructed mainly to:",
+          "options": [
+            "Reduce flow velocity and erosion in a channel",
+            "Increase traffic speed",
+            "Support a high-rise column",
+            "Measure voltage"
+          ],
+          "a": 0,
+          "ex": "Check dams control erosion and sediment movement in channels."
+        },
+        {
+          "q": "A stormwater detention basin is intended to:",
+          "options": [
+            "Temporarily store runoff and reduce peak discharge",
+            "Increase flood peaks",
+            "Treat only sewage sludge",
+            "Generate compressed air"
+          ],
+          "a": 0,
+          "ex": "Detention attenuates peak stormwater flows."
+        }
+      ]
+    },
+    {
+      "id": "project_director_em",
+      "title": "Project Director (E&M) - 100 MCQs",
+      "questions": [
+        {
+          "q": "In a three-phase balanced system, the phase displacement is:",
+          "options": [
+            "60°",
+            "90°",
+            "120°",
+            "180°"
+          ],
+          "a": 2,
+          "ex": "Balanced three-phase quantities are separated by 120 electrical degrees."
+        },
+        {
+          "q": "The power factor of a purely resistive AC circuit is:",
+          "options": [
+            "0",
+            "0.5",
+            "1",
+            "Leading 0.8"
+          ],
+          "a": 2,
+          "ex": "Voltage and current are in phase in a pure resistance."
+        },
+        {
+          "q": "In an inductive circuit, current generally:",
+          "options": [
+            "Leads voltage",
+            "Lags voltage",
+            "Equals zero always",
+            "Is independent of frequency"
+          ],
+          "a": 1,
+          "ex": "Current lags voltage in an inductive circuit."
+        },
+        {
+          "q": "The SI unit of capacitance is:",
+          "options": [
+            "Henry",
+            "Farad",
+            "Ohm",
+            "Weber"
+          ],
+          "a": 1,
+          "ex": "Capacitance is measured in farads."
+        },
+        {
+          "q": "The SI unit of inductance is:",
+          "options": [
+            "Farad",
+            "Henry",
+            "Tesla",
+            "Siemens"
+          ],
+          "a": 1,
+          "ex": "Inductance is measured in henrys."
+        },
+        {
+          "q": "Kirchhoff's Current Law is based on conservation of:",
+          "options": [
+            "Charge",
+            "Energy only",
+            "Mass only",
+            "Temperature"
+          ],
+          "a": 0,
+          "ex": "The algebraic sum of currents at a node is zero."
+        },
+        {
+          "q": "Kirchhoff's Voltage Law is based on conservation of:",
+          "options": [
+            "Energy",
+            "Charge only",
+            "Mass",
+            "Momentum only"
+          ],
+          "a": 0,
+          "ex": "The sum of voltage rises and drops around a closed loop is zero."
+        },
+        {
+          "q": "The Thevenin equivalent consists of:",
+          "options": [
+            "A voltage source and series resistance",
+            "A current source only",
+            "Two capacitors only",
+            "A transformer only"
+          ],
+          "a": 0,
+          "ex": "A linear network can be represented by Vth in series with Rth."
+        },
+        {
+          "q": "The Norton equivalent consists of:",
+          "options": [
+            "A current source and parallel resistance",
+            "A voltage source only",
+            "A motor and gear",
+            "A diode only"
+          ],
+          "a": 0,
+          "ex": "Norton form uses current source in parallel with resistance."
+        },
+        {
+          "q": "The RMS value of a sinusoidal voltage with peak value Vm is:",
+          "options": [
+            "Vm",
+            "Vm/2",
+            "Vm/√2",
+            "√2Vm"
+          ],
+          "a": 2,
+          "ex": "For a sine wave, Vrms = Vm/√2."
+        },
+        {
+          "q": "A transformer operates on the principle of:",
+          "options": [
+            "Mutual induction",
+            "Electrolysis",
+            "Photoelectric effect",
+            "Thermal expansion"
+          ],
+          "a": 0,
+          "ex": "Transformers transfer AC energy through mutual induction."
+        },
+        {
+          "q": "A step-up transformer increases voltage and ideally:",
+          "options": [
+            "Decreases current proportionally",
+            "Increases current equally",
+            "Stops power transfer",
+            "Changes frequency"
+          ],
+          "a": 0,
+          "ex": "For near-constant power, higher voltage means lower current."
+        },
+        {
+          "q": "A transformer cannot operate properly on steady DC because:",
+          "options": [
+            "No changing flux is produced after switching",
+            "DC has too much frequency",
+            "The core is always cold",
+            "Resistance becomes zero"
+          ],
+          "a": 0,
+          "ex": "Transformer action requires changing magnetic flux."
+        },
+        {
+          "q": "A synchronous generator produces frequency related to speed and:",
+          "options": [
+            "Number of poles",
+            "Cable length only",
+            "Bearing color",
+            "Insulation paint"
+          ],
+          "a": 0,
+          "ex": "Frequency f = PN/120 for speed N and pole count P."
+        },
+        {
+          "q": "The slip of an induction motor at synchronous speed is:",
+          "options": [
+            "0",
+            "0.5",
+            "1",
+            "Infinite"
+          ],
+          "a": 0,
+          "ex": "At synchronous speed, rotor speed equals synchronous speed, so slip is zero."
+        },
+        {
+          "q": "An induction motor develops torque because of:",
+          "options": [
+            "Induced rotor currents interacting with magnetic field",
+            "Static charge only",
+            "Mechanical springs",
+            "Battery chemistry"
+          ],
+          "a": 0,
+          "ex": "Rotor currents induced by relative motion interact with the rotating field."
+        },
+        {
+          "q": "A DC motor converts:",
+          "options": [
+            "Electrical energy to mechanical energy",
+            "Mechanical to chemical only",
+            "Heat to light only",
+            "Sound to electricity"
+          ],
+          "a": 0,
+          "ex": "Motors convert electrical input to mechanical output."
+        },
+        {
+          "q": "A circuit breaker is designed to:",
+          "options": [
+            "Interrupt fault current",
+            "Increase fault current",
+            "Measure temperature only",
+            "Store energy permanently"
+          ],
+          "a": 0,
+          "ex": "Breakers open circuits during abnormal current conditions."
+        },
+        {
+          "q": "A fuse protects a circuit by:",
+          "options": [
+            "Melting under excessive current",
+            "Increasing voltage",
+            "Cooling a transformer",
+            "Storing charge"
+          ],
+          "a": 0,
+          "ex": "The fuse element melts when current exceeds its rating."
+        },
+        {
+          "q": "Earthing primarily provides:",
+          "options": [
+            "A low-impedance fault-current path and shock protection",
+            "Higher operating voltage",
+            "More harmonics",
+            "A larger load"
+          ],
+          "a": 0,
+          "ex": "Protective earthing helps clear faults and reduce touch voltage."
+        },
+        {
+          "q": "A relay is commonly used to:",
+          "options": [
+            "Sense abnormal conditions and initiate switching",
+            "Store mechanical energy only",
+            "Increase cable weight",
+            "Filter drinking water"
+          ],
+          "a": 0,
+          "ex": "Protection relays detect conditions and command breakers."
+        },
+        {
+          "q": "The per-unit system is useful because it:",
+          "options": [
+            "Simplifies calculations across transformer levels",
+            "Eliminates all faults",
+            "Removes power factor",
+            "Measures building height"
+          ],
+          "a": 0,
+          "ex": "Per-unit normalizes quantities and simplifies network calculations."
+        },
+        {
+          "q": "Transmission voltage is raised mainly to:",
+          "options": [
+            "Reduce I²R losses for a given power",
+            "Increase conductor heating",
+            "Lower efficiency",
+            "Increase current"
+          ],
+          "a": 0,
+          "ex": "Higher voltage reduces current and resistive losses."
+        },
+        {
+          "q": "Corona on an overhead line is associated with:",
+          "options": [
+            "Ionization of surrounding air",
+            "Concrete shrinkage",
+            "Bearing failure",
+            "Water hammer"
+          ],
+          "a": 0,
+          "ex": "Corona is air ionization around conductors at high electric stress."
+        },
+        {
+          "q": "The Ferranti effect is most noticeable on:",
+          "options": [
+            "Long lightly loaded AC transmission lines",
+            "Short DC cables only",
+            "Low-voltage batteries",
+            "Mechanical shafts"
+          ],
+          "a": 0,
+          "ex": "Receiving-end voltage can exceed sending-end voltage on long lightly loaded AC lines."
+        },
+        {
+          "q": "A circuit's short-circuit level is related to:",
+          "options": [
+            "Available fault current and system impedance",
+            "Paint thickness",
+            "Room temperature only",
+            "Road width"
+          ],
+          "a": 0,
+          "ex": "Lower system impedance generally means higher fault current."
+        },
+        {
+          "q": "A PLC is primarily used for:",
+          "options": [
+            "Industrial control and automation",
+            "Concrete testing",
+            "Land surveying",
+            "Fuel refining only"
+          ],
+          "a": 0,
+          "ex": "PLCs execute programmed control logic in industrial systems."
+        },
+        {
+          "q": "A PID controller uses proportional, integral, and:",
+          "options": [
+            "Derivative action",
+            "Digital insulation",
+            "Dynamic impedance only",
+            "Directional illumination"
+          ],
+          "a": 0,
+          "ex": "PID combines P, I, and D terms."
+        },
+        {
+          "q": "Integral control helps eliminate:",
+          "options": [
+            "Steady-state error",
+            "All noise instantly",
+            "Mechanical friction",
+            "Short circuit current"
+          ],
+          "a": 0,
+          "ex": "Integral action accumulates error and removes offset."
+        },
+        {
+          "q": "A feedback control system compares output with:",
+          "options": [
+            "Reference or desired input",
+            "Cable color",
+            "Ground level",
+            "Motor weight"
+          ],
+          "a": 0,
+          "ex": "Feedback compares actual output against the setpoint."
+        },
+        {
+          "q": "A stable control system has responses that:",
+          "options": [
+            "Remain bounded and settle appropriately",
+            "Grow without limit",
+            "Always oscillate increasingly",
+            "Ignore input"
+          ],
+          "a": 0,
+          "ex": "Stability requires bounded response for bounded input."
+        },
+        {
+          "q": "A transfer function is defined with zero initial conditions as output divided by:",
+          "options": [
+            "Input in the Laplace domain",
+            "Resistance only",
+            "Temperature",
+            "Mechanical torque only"
+          ],
+          "a": 0,
+          "ex": "Transfer function G(s)=Y(s)/U(s) under zero initial conditions."
+        },
+        {
+          "q": "A diode primarily allows current to flow:",
+          "options": [
+            "In one direction",
+            "Equally in both directions",
+            "Only through air",
+            "Only at zero voltage"
+          ],
+          "a": 0,
+          "ex": "A rectifier diode conducts mainly in forward bias."
+        },
+        {
+          "q": "A Zener diode is commonly used for:",
+          "options": [
+            "Voltage regulation or reference",
+            "Mechanical switching only",
+            "Power transmission",
+            "Temperature measurement only"
+          ],
+          "a": 0,
+          "ex": "Zener breakdown provides a relatively stable voltage."
+        },
+        {
+          "q": "A transistor can be used as an amplifier and:",
+          "options": [
+            "Electronic switch",
+            "Hydraulic pump",
+            "Transformer core",
+            "Fuse wire"
+          ],
+          "a": 0,
+          "ex": "Transistors operate in amplification and switching modes."
+        },
+        {
+          "q": "An operational amplifier ideally has:",
+          "options": [
+            "Very high open-loop gain and input impedance",
+            "Zero gain always",
+            "Low input impedance only",
+            "No feedback capability"
+          ],
+          "a": 0,
+          "ex": "Ideal op-amp assumptions include high gain and input impedance."
+        },
+        {
+          "q": "A rectifier converts:",
+          "options": [
+            "AC to DC",
+            "DC to AC only",
+            "Mechanical to thermal",
+            "Light to sound"
+          ],
+          "a": 0,
+          "ex": "Rectifiers produce unidirectional output from AC."
+        },
+        {
+          "q": "An inverter converts:",
+          "options": [
+            "DC to AC",
+            "AC to DC only",
+            "Heat to motion",
+            "Sound to light"
+          ],
+          "a": 0,
+          "ex": "Inverters synthesize AC from a DC source."
+        },
+        {
+          "q": "PWM controls average voltage by varying:",
+          "options": [
+            "Pulse width or duty cycle",
+            "Transformer color",
+            "Cable length only",
+            "Frequency to zero"
+          ],
+          "a": 0,
+          "ex": "Pulse-width modulation varies duty cycle."
+        },
+        {
+          "q": "An ADC converts:",
+          "options": [
+            "Analog signal to digital representation",
+            "Digital to analog only",
+            "AC to mechanical",
+            "Heat to current"
+          ],
+          "a": 0,
+          "ex": "An analog-to-digital converter samples and quantizes analog input."
+        },
+        {
+          "q": "Sampling frequency should be at least twice the highest signal frequency according to:",
+          "options": [
+            "Nyquist criterion",
+            "Ohm's law",
+            "Faraday's law only",
+            "Kirchhoff's law"
+          ],
+          "a": 0,
+          "ex": "Nyquist requires fs ≥ 2fm for ideal band-limited sampling."
+        },
+        {
+          "q": "Aliasing occurs when a signal is sampled:",
+          "options": [
+            "Below the required Nyquist rate",
+            "At infinite frequency",
+            "With perfect filtering always",
+            "Only in DC circuits"
+          ],
+          "a": 0,
+          "ex": "Undersampling causes spectral overlap known as aliasing."
+        },
+        {
+          "q": "AM varies the carrier's:",
+          "options": [
+            "Amplitude",
+            "Resistance only",
+            "Wavelength only",
+            "Battery voltage only"
+          ],
+          "a": 0,
+          "ex": "Amplitude modulation changes carrier amplitude with the message."
+        },
+        {
+          "q": "FM varies the carrier's:",
+          "options": [
+            "Frequency",
+            "Amplitude only",
+            "Power factor only",
+            "Cable diameter"
+          ],
+          "a": 0,
+          "ex": "Frequency modulation changes instantaneous carrier frequency."
+        },
+        {
+          "q": "A fiber-optic link transmits information using:",
+          "options": [
+            "Light",
+            "Hydraulic pressure",
+            "Magnetic gears",
+            "Steam"
+          ],
+          "a": 0,
+          "ex": "Optical fiber carries modulated light."
+        },
+        {
+          "q": "TCP provides:",
+          "options": [
+            "Reliable connection-oriented transport",
+            "Only wireless power",
+            "Uncontrolled broadcast only",
+            "Analog amplification"
+          ],
+          "a": 0,
+          "ex": "TCP provides reliable ordered delivery."
+        },
+        {
+          "q": "IP primarily provides:",
+          "options": [
+            "Logical addressing and packet routing",
+            "Guaranteed delivery alone",
+            "Audio compression",
+            "Motor control"
+          ],
+          "a": 0,
+          "ex": "IP handles addressing and routing; reliability may be provided above it."
+        },
+        {
+          "q": "DNS is used to resolve:",
+          "options": [
+            "Domain names to IP addresses",
+            "Voltage to current",
+            "Heat to work",
+            "Files to concrete"
+          ],
+          "a": 0,
+          "ex": "DNS maps human-readable names to addresses."
+        },
+        {
+          "q": "A subnet mask identifies:",
+          "options": [
+            "Network and host portions of an IP address",
+            "Only a password",
+            "A motor winding",
+            "A transformer ratio"
+          ],
+          "a": 0,
+          "ex": "Subnet masks divide address bits into network and host portions."
+        },
+        {
+          "q": "A thermocouple measures temperature using:",
+          "options": [
+            "Seebeck effect",
+            "Hall effect only",
+            "Piezoelectricity only",
+            "Skin effect"
+          ],
+          "a": 0,
+          "ex": "Thermocouples generate voltage due to the Seebeck effect."
+        },
+        {
+          "q": "The first law of thermodynamics expresses conservation of:",
+          "options": [
+            "Energy",
+            "Charge only",
+            "Momentum only",
+            "Entropy decrease"
+          ],
+          "a": 0,
+          "ex": "Energy is conserved in thermodynamic processes."
+        },
+        {
+          "q": "The second law of thermodynamics introduces:",
+          "options": [
+            "Entropy and direction of processes",
+            "Ohm's law",
+            "Voltage regulation",
+            "Cable impedance"
+          ],
+          "a": 0,
+          "ex": "The second law governs entropy and irreversibility."
+        },
+        {
+          "q": "For an ideal gas, PV equals:",
+          "options": [
+            "nRT",
+            "IR",
+            "mg",
+            "V/I"
+          ],
+          "a": 0,
+          "ex": "The ideal gas law is PV=nRT."
+        },
+        {
+          "q": "The coefficient of performance of a refrigerator is:",
+          "options": [
+            "Refrigeration effect divided by work input",
+            "Work divided by heat only",
+            "Pressure divided by volume",
+            "Heat rejected divided by mass"
+          ],
+          "a": 0,
+          "ex": "COPR = desired refrigeration effect / work input."
+        },
+        {
+          "q": "A centrifugal pump converts mechanical energy into:",
+          "options": [
+            "Hydraulic energy",
+            "Chemical energy",
+            "Nuclear energy",
+            "Sound only"
+          ],
+          "a": 0,
+          "ex": "A pump raises fluid pressure/head using mechanical input."
+        },
+        {
+          "q": "Cavitation in a pump is caused by:",
+          "options": [
+            "Local pressure falling below vapor pressure",
+            "Excessive concrete cover",
+            "High insulation resistance",
+            "Zero flow always"
+          ],
+          "a": 0,
+          "ex": "Cavitation forms vapor bubbles when local pressure is too low."
+        },
+        {
+          "q": "The Reynolds number indicates the relative importance of:",
+          "options": [
+            "Inertial and viscous forces",
+            "Electrical and magnetic forces only",
+            "Heat and light",
+            "Torque and voltage"
+          ],
+          "a": 0,
+          "ex": "Reynolds number helps classify laminar and turbulent flow."
+        },
+        {
+          "q": "Stress is force divided by:",
+          "options": [
+            "Area",
+            "Volume",
+            "Time",
+            "Length only"
+          ],
+          "a": 0,
+          "ex": "Normal stress is force per unit area."
+        },
+        {
+          "q": "The SI unit of stress is:",
+          "options": [
+            "Pascal",
+            "Joule",
+            "Watt",
+            "Tesla"
+          ],
+          "a": 0,
+          "ex": "Stress is measured in pascals."
+        },
+        {
+          "q": "The yield point marks the beginning of significant:",
+          "options": [
+            "Plastic deformation",
+            "Elastic recovery only",
+            "Thermal insulation",
+            "Magnetic saturation"
+          ],
+          "a": 0,
+          "ex": "Beyond yield, permanent plastic strain develops."
+        },
+        {
+          "q": "A bearing primarily supports:",
+          "options": [
+            "Loads and permits relative motion",
+            "Electrical voltage",
+            "Fluid filtration",
+            "Signal modulation"
+          ],
+          "a": 0,
+          "ex": "Bearings support shafts and reduce friction."
+        },
+        {
+          "q": "A gear train transmits motion and can change:",
+          "options": [
+            "Speed, torque, and direction",
+            "Only temperature",
+            "Only voltage",
+            "Only fluid pressure"
+          ],
+          "a": 0,
+          "ex": "Gears transmit mechanical power with changed speed/torque ratios."
+        },
+        {
+          "q": "A variable-frequency drive controls an AC motor mainly by varying:",
+          "options": [
+            "Supply frequency and voltage",
+            "Concrete strength",
+            "Pipe diameter",
+            "Oil color"
+          ],
+          "a": 0,
+          "ex": "VFDs vary frequency and coordinated voltage to control speed."
+        },
+        {
+          "q": "Renewable energy includes:",
+          "options": [
+            "Solar and wind energy",
+            "Coal only",
+            "Diesel only",
+            "Natural gas only"
+          ],
+          "a": 0,
+          "ex": "Solar and wind are renewable sources."
+        },
+        {
+          "q": "A photovoltaic cell converts:",
+          "options": [
+            "Light directly into electrical energy",
+            "Heat into concrete",
+            "Mechanical energy into fuel",
+            "Sound into voltage only"
+          ],
+          "a": 0,
+          "ex": "Photovoltaics use the photoelectric effect to generate electricity."
+        },
+        {
+          "q": "The capacity factor is the ratio of actual energy output to:",
+          "options": [
+            "Maximum possible output over the period",
+            "Fuel cost",
+            "Rated voltage only",
+            "Number of workers"
+          ],
+          "a": 0,
+          "ex": "Capacity factor compares actual output to continuous full-rated output."
+        },
+        {
+          "q": "A battery management system monitors cells and protects against:",
+          "options": [
+            "Overcharge, over-discharge, and thermal problems",
+            "Road flooding only",
+            "Concrete cracking",
+            "Signal reflection only"
+          ],
+          "a": 0,
+          "ex": "BMS maintains safe battery operation and cell balance."
+        },
+        {
+          "q": "An electric vehicle motor commonly provides:",
+          "options": [
+            "High starting torque",
+            "Zero torque at start",
+            "Only thermal output",
+            "No regenerative capability"
+          ],
+          "a": 0,
+          "ex": "Electric motors can deliver strong starting torque."
+        },
+        {
+          "q": "Regenerative braking converts kinetic energy into:",
+          "options": [
+            "Electrical energy stored or returned to the system",
+            "Only heat always",
+            "Concrete stress",
+            "Sound pressure"
+          ],
+          "a": 0,
+          "ex": "Regeneration uses the motor as a generator during braking."
+        },
+        {
+          "q": "A robot's end effector is:",
+          "options": [
+            "The tool or device at the end of its arm",
+            "The battery room",
+            "The control cabinet only",
+            "The foundation"
+          ],
+          "a": 0,
+          "ex": "End effectors perform the robot's task."
+        },
+        {
+          "q": "Machine learning is a branch of AI in which systems:",
+          "options": [
+            "Learn patterns from data",
+            "Always use handwritten rules only",
+            "Cannot process data",
+            "Replace all sensors"
+          ],
+          "a": 0,
+          "ex": "ML learns statistical patterns from examples."
+        },
+        {
+          "q": "A supervised learning model is trained using:",
+          "options": [
+            "Labeled examples",
+            "No data",
+            "Only random noise",
+            "A circuit breaker"
+          ],
+          "a": 0,
+          "ex": "Supervised learning uses input-output labels."
+        },
+        {
+          "q": "A sensor converts a physical quantity into:",
+          "options": [
+            "A measurable signal",
+            "A legal contract",
+            "A foundation",
+            "A gearbox only"
+          ],
+          "a": 0,
+          "ex": "Sensors transduce physical phenomena into signals."
+        },
+        {
+          "q": "SCADA systems are used for:",
+          "options": [
+            "Supervisory control and data acquisition",
+            "Concrete cube testing only",
+            "Payroll processing only",
+            "Road paving only"
+          ],
+          "a": 0,
+          "ex": "SCADA monitors and controls distributed industrial systems."
+        },
+        {
+          "q": "A PLC scan cycle typically includes input scan, program execution, and:",
+          "options": [
+            "Output update",
+            "Concrete curing",
+            "Fuel combustion",
+            "Land survey"
+          ],
+          "a": 0,
+          "ex": "PLC cycles read inputs, execute logic, and update outputs."
+        },
+        {
+          "q": "The official CDA E&M paper pattern includes:",
+          "options": [
+            "Power systems, machines, control, communications, networking, renewables, AI, and PPRA",
+            "Only civil surveying",
+            "Only accounting",
+            "Only Urdu literature"
+          ],
+          "a": 0,
+          "ex": "These are listed areas in the official director/deputy director E&M pattern."
+        },
+        {
+          "q": "A procurement specification should be:",
+          "options": [
+            "Clear, non-discriminatory, and linked to requirements",
+            "Designed for one hidden supplier",
+            "Changed after bids",
+            "Without measurable criteria"
+          ],
+          "a": 0,
+          "ex": "Fair specifications support competition and value for money."
+        },
+        {
+          "q": "A project risk with high probability and high impact needs:",
+          "options": [
+            "Priority treatment and a defined response",
+            "No monitoring",
+            "Immediate deletion",
+            "Only verbal discussion"
+          ],
+          "a": 0,
+          "ex": "High risks require active mitigation, transfer, avoidance, or contingency."
+        },
+        {
+          "q": "A commissioning process verifies that a system:",
+          "options": [
+            "Is installed, tested, and performs as specified",
+            "Has only been purchased",
+            "Has no documentation",
+            "Cannot be operated"
+          ],
+          "a": 0,
+          "ex": "Commissioning confirms functional performance before handover."
+        },
+        {
+          "q": "A single-line diagram represents:",
+          "options": [
+            "An electrical power system in simplified form",
+            "A civil foundation detail",
+            "A road profile only",
+            "A mechanical seal"
+          ],
+          "a": 0,
+          "ex": "SLDs simplify three-phase networks and equipment connections."
+        },
+        {
+          "q": "The short-circuit rating of switchgear must be adequate for:",
+          "options": [
+            "Available fault current at its location",
+            "Normal lighting load only",
+            "Room area",
+            "Cable color"
+          ],
+          "a": 0,
+          "ex": "Equipment must withstand and interrupt prospective fault current."
+        },
+        {
+          "q": "A relay coordination study aims to:",
+          "options": [
+            "Trip the nearest protective device first while maintaining selectivity",
+            "Trip every breaker simultaneously",
+            "Eliminate all relays",
+            "Increase fault duration"
+          ],
+          "a": 0,
+          "ex": "Coordination improves selectivity and system continuity."
+        },
+        {
+          "q": "Harmonics in power systems are commonly caused by:",
+          "options": [
+            "Nonlinear loads such as converters",
+            "Pure resistors only",
+            "Open circuits only",
+            "Concrete slabs"
+          ],
+          "a": 0,
+          "ex": "Power electronics and other nonlinear loads create harmonic currents."
+        },
+        {
+          "q": "Power quality includes voltage magnitude, frequency, and:",
+          "options": [
+            "Waveform distortion and interruptions",
+            "Building height only",
+            "Soil density",
+            "Water flow only"
+          ],
+          "a": 0,
+          "ex": "Power quality covers deviations affecting equipment operation."
+        },
+        {
+          "q": "An uninterruptible power supply provides:",
+          "options": [
+            "Backup power and conditioned supply",
+            "Only mechanical torque",
+            "Road drainage",
+            "Permanent fuel production"
+          ],
+          "a": 0,
+          "ex": "UPS systems bridge interruptions and condition power."
+        },
+        {
+          "q": "The main function of a capacitor bank in a power system is often:",
+          "options": [
+            "Power-factor correction and reactive support",
+            "Increasing active losses",
+            "Reducing voltage to zero",
+            "Replacing protection"
+          ],
+          "a": 0,
+          "ex": "Capacitors supply reactive power and improve power factor."
+        },
+        {
+          "q": "A synchronous condenser is used mainly for:",
+          "options": [
+            "Reactive power and voltage control",
+            "Water pumping only",
+            "Data encryption",
+            "Mechanical braking"
+          ],
+          "a": 0,
+          "ex": "A synchronous condenser provides controllable reactive support."
+        },
+        {
+          "q": "An insulation resistance test commonly uses a:",
+          "options": [
+            "Megohmmeter",
+            "Tachometer",
+            "Hydrometer",
+            "Caliper"
+          ],
+          "a": 0,
+          "ex": "A megohmmeter measures high insulation resistance."
+        },
+        {
+          "q": "The purpose of a commissioning record is to:",
+          "options": [
+            "Document tests, settings, results, and acceptance",
+            "Replace all drawings",
+            "Hide defects",
+            "Authorize unsafe energization"
+          ],
+          "a": 0,
+          "ex": "Records provide traceability and evidence of acceptance."
+        },
+        {
+          "q": "A maintenance strategy based on equipment condition is:",
+          "options": [
+            "Condition-based maintenance",
+            "Blind replacement only",
+            "No maintenance",
+            "Random maintenance"
+          ],
+          "a": 0,
+          "ex": "Condition-based maintenance uses measured health indicators."
+        },
+        {
+          "q": "Preventive maintenance is performed:",
+          "options": [
+            "At planned intervals or prescribed conditions",
+            "Only after catastrophic failure",
+            "Without any schedule",
+            "Only during procurement"
+          ],
+          "a": 0,
+          "ex": "Preventive maintenance aims to reduce failure probability."
+        },
+        {
+          "q": "The safest response to an electrical incident is first to:",
+          "options": [
+            "Isolate the source and follow the emergency procedure",
+            "Touch the victim immediately without isolation",
+            "Re-energize the circuit",
+            "Remove warning signs"
+          ],
+          "a": 0,
+          "ex": "Isolation prevents additional injury before rescue and treatment."
+        },
+        {
+          "q": "The opposite of 'mandatory' is:",
+          "options": [
+            "Optional",
+            "Compulsory",
+            "Required",
+            "Binding"
+          ],
+          "a": 0,
+          "ex": "Optional means not mandatory."
+        },
+        {
+          "q": "Choose the correct sentence:",
+          "options": [
+            "The equipment have been tested.",
+            "The equipment has been tested.",
+            "The equipments has tested.",
+            "The equipment are test."
+          ],
+          "a": 1,
+          "ex": "Equipment is generally an uncountable singular noun in this use."
+        },
+        {
+          "q": "A good technical report should be:",
+          "options": [
+            "Accurate, structured, and evidence-based",
+            "Vague and unsupported",
+            "Only decorative",
+            "Without conclusions"
+          ],
+          "a": 0,
+          "ex": "Technical reports need clarity, evidence, and traceability."
+        },
+        {
+          "q": "The capital of Pakistan is:",
+          "options": [
+            "Islamabad",
+            "Karachi",
+            "Lahore",
+            "Peshawar"
+          ],
+          "a": 0,
+          "ex": "Islamabad is the federal capital."
+        },
+        {
+          "q": "The Pakistan Engineering Council is responsible for:",
+          "options": [
+            "Professional engineering regulation and registration",
+            "Issuing driving licenses",
+            "Managing airports only",
+            "Collecting customs duty"
+          ],
+          "a": 0,
+          "ex": "PEC regulates engineering practice and registration."
+        },
+        {
+          "q": "The national game traditionally associated with Pakistan is:",
+          "options": [
+            "Hockey",
+            "Cricket",
+            "Football",
+            "Tennis"
+          ],
+          "a": 0,
+          "ex": "Hockey is traditionally listed as the national game."
+        },
+        {
+          "q": "The Pakistan Resolution was passed in:",
+          "options": [
+            "1940",
+            "1947",
+            "1956",
+            "1973"
+          ],
+          "a": 0,
+          "ex": "The Lahore Resolution was adopted in 1940."
+        },
+        {
+          "q": "A star-delta starter is used to:",
+          "options": [
+            "Reduce induction-motor starting current",
+            "Increase concrete strength",
+            "Measure voltage only",
+            "Convert DC to light"
+          ],
+          "a": 0,
+          "ex": "Star-delta starting reduces the voltage applied to each motor winding at start."
+        }
+      ]
+    }
+  ]
+}
