@@ -90,30 +90,6 @@
     "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/pak-constitution-law.json"
   },
   {
-    "id": "nts-past-papers",
-    "title": "NTS Past Papers",
-    "icon": "📝",
-    "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/nts-past-papers.json"
-  },
-  {
-    "id": "ppsc-fpsc-spsc-bpsc-kppsc",
-    "title": "PPSC / FPSC / SPSC / BPSC / KPPSC",
-    "icon": "🏛️",
-    "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/ppsc-fpsc-spsc-bpsc-kppsc.json"
-  },
-  {
-    "id": "police-jobs",
-    "title": "Police Jobs",
-    "icon": "👮",
-    "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/police-jobs.json"
-  },
-  {
-    "id": "teaching-jobs",
-    "title": "Teaching Jobs",
-    "icon": "👩‍🏫",
-    "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/teaching-jobs.json"
-  },
-  {
     "id": "public-administration-management",
     "title": "Public Administration & Management",
     "icon": "🧑‍💼",
