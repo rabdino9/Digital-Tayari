@@ -7,7 +7,7 @@
   "subcategories": [
     {
       "id": "easy",
-      "title": "Easy Questions",
+      "title": "Data Processing Assistant (BPS-12) Easy Questions",
       "questions": [
         {
           "q": "Data in a computer is stored internally as:",
@@ -1113,7 +1113,7 @@
     },
     {
       "id": "normal",
-      "title": "Normal Questions",
+      "title": "Data Processing Assistant (BPS-12) Normal Questions",
       "questions": [
         {
           "q": "Which memory loses its contents when power is switched off?",
@@ -2219,7 +2219,7 @@
     },
     {
       "id": "hard",
-      "title": "Hard Questions",
+      "title": "Data Processing Assistant (BPS-12) Hard Questions",
       "questions": [
         {
           "q": "In a relational database, normalization primarily aims to:",
