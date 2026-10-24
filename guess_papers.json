@@ -1,5 +1,11 @@
 [
   {
+  "id": "Sindh-Teaching-Liecense",
+  "title": "Sindh Teaching License Master",
+  "icon": "🎯",
+  "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/guess-papers/Sindh-Teaching-Liecense.json"
+},
+{
   "id": "PST-Sindh",
   "title": "PST Sindh",
   "icon": "🎯",
