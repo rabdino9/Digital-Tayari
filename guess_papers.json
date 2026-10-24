@@ -1,5 +1,11 @@
 [
   {
+  "id": "PST-Sindh",
+  "title": "PST Sindh",
+  "icon": "🎯",
+  "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/guess-papers/PST-Sindh.json"
+},
+  {
   "id": "Irrigation-Department-Sindh",
   "title": "Irrigation Department Sindh",
   "icon": "🎯",
