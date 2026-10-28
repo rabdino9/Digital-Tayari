@@ -1,0 +1,122 @@
+[
+  {
+    "id": "guess_papers",
+    "title": "Guess Papers (High Chance)",
+    "icon": "🎯",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/guess_papers_new.json"
+  },
+  {
+    "id": "math",
+    "title": "Mathematics",
+    "icon": "🧮",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/math.json"
+  },
+  {
+    "id": "physics",
+    "title": "Physics",
+    "icon": "⚛️",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/physics.json"
+  },
+  {
+    "id": "chemistry",
+    "title": "Chemistry",
+    "icon": "🧪",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/chemistry.json"
+  },
+  {
+    "id": "biology",
+    "title": "Biology",
+    "icon": "🧬",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/biology.json"
+  },
+  {
+    "id": "computer-science",
+    "title": "Computer Science",
+    "icon": "💻",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/computer-science.json"
+  },
+  {
+    "id": "english",
+    "title": "English",
+    "icon": "📘",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/english.json"
+  },
+  {
+    "id": "urdu",
+    "title": "Urdu",
+    "icon": "📚",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/urdu.json"
+  },
+  {
+    "id": "gk",
+    "title": "General Knowledge",
+    "icon": "🌐",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/gk.json"
+  },
+  {
+    "id": "ca",
+    "title": "Current Affairs",
+    "icon": "📰",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/ca.json"
+  },
+  {
+    "id": "world-geography",
+    "title": "World Geography",
+    "icon": "🗺️",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/world-geography.json"
+  },
+  {
+    "id": "pakistan-studies",
+    "title": "Pakistan Studies",
+    "icon": "🇵🇰",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/pakistan-studies.json"
+  },
+  {
+    "id": "islamiat",
+    "title": "Islamic Studies",
+    "icon": "☪️",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/islamiat.json"
+  },
+  {
+    "id": "everyday-science",
+    "title": "Everyday Science",
+    "icon": "🔬",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/everyday-science.json"
+  },
+  {
+    "id": "pak-constitution-law",
+    "title": "Pak Constitution & Law",
+    "icon": "📖",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/pak-constitution-law.json"
+  },
+  {
+    "id": "public-administration-management",
+    "title": "Public Administration & Management",
+    "icon": "🧑‍💼",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/public-administration-management.json"
+  },
+  {
+    "id": "iq-analytical-reasoning",
+    "title": "Logical & Analytical Reasoning",
+    "icon": "🧠",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/iq-analytical-reasoning.json"
+  },
+  {
+    "id": "basic-arithmetic",
+    "title": "Basic Arithmetic",
+    "icon": "➗",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/basic-arithmetic.json"
+  },
+  {
+    "id": "data-interpretation",
+    "title": "Data Interpretation",
+    "icon": "📊",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/data-interpretation.json"
+  },
+  {
+    "id": "verbal-nonverbal-reasoning",
+    "title": "Verbal & Non-Verbal Reasoning",
+    "icon": "🔍",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/verbal-nonverbal-reasoning.json"
+  }
+]
