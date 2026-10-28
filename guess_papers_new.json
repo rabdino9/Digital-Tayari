@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Sindh-Teaching-Liecense",
+    "title": "Sindh Teaching License Master",
+    "icon": "🎯",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/guess-papers/Sindh-Teaching-Liecense.json"
+  },
+  {
+    "id": "PST-Sindh",
+    "title": "PST Sindh",
+    "icon": "🎯",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/guess-papers/PST-Sindh.json"
+  },
+  {
+    "id": "JEST-Sindh",
+    "title": "JEST Sindh",
+    "icon": "🎯",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/guess-papers/JEST-Sindh.json"
+  },
+  {
+    "id": "Irrigation-Department-Sindh",
+    "title": "Irrigation Department Sindh",
+    "icon": "🎯",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/guess-papers/Irrigation-Department-Sindh.json"
+  },
+  {
+    "id": "Capital-Development-Authority-Islamabad",
+    "title": "Capital Development Authority Islamabad",
+    "icon": "🎯",
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/guess-papers/Capital-Development-Authority-Islamabad.json"
+  }
+]
