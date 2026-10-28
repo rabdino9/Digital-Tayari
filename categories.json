@@ -9,7 +9,8 @@
     "id": "math",
     "title": "Mathematics",
     "icon": "🧮",
-    "subcategoriesUrl": "https://raw.githubusercontent.com/rabdino9/Digital-Tayari/refs/heads/main/math.json"
+    "subcategoriesUrl": "https://digital-tayari.pages.dev/math.json"
+"
   },
   {
     "id": "physics",
